@@ -1,0 +1,1281 @@
+name,stage,stage_label,slot,pick,pick_name,correct,points
+Aleksander,16_delsfinale,16-delsfinale,1,CZE,Czechia,Nei,0
+Aleksander,16_delsfinale,16-delsfinale,2,CAN,Canada,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,3,GER,Germany,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,4,SWE,Sweden,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,5,NED,Netherlands,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,6,MAR,Morocco,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,7,BRA,Brazil,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,8,JAP,Japan,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,9,FRA,France,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,10,SCO,Scotland,Nei,0
+Aleksander,16_delsfinale,16-delsfinale,11,ECU,Ecuador,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,12,NOR,Norway,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,13,MEX,Mexico,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,14,CIV,Ivory Coast,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,15,ENG,England,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,16,ALG,Algeria,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,17,USA,United States,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,18,BIH,Bosnia and Herzegovina,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,19,BEL,Belgium,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,20,KOR,South Korea,Nei,0
+Aleksander,16_delsfinale,16-delsfinale,21,COL,Colombia,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,22,CRO,Croatia,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,24,AUT,Austria,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,25,SUI,Switzerland,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,26,IRA,Iran,Nei,0
+Aleksander,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,28,URU,Uruguay,Nei,0
+Aleksander,16_delsfinale,16-delsfinale,29,POR,Portugal,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,30,GHA,Ghana,Ja,1
+Aleksander,16_delsfinale,16-delsfinale,31,TÜR,Türkiye,Nei,0
+Aleksander,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Aleksander,8_delsfinale,8-delsfinale,1,GER,Germany,Nei,0
+Aleksander,8_delsfinale,8-delsfinale,2,FRA,France,Ja,2
+Aleksander,8_delsfinale,8-delsfinale,3,CZE,Czechia,Nei,0
+Aleksander,8_delsfinale,8-delsfinale,4,NED,Netherlands,Nei,0
+Aleksander,8_delsfinale,8-delsfinale,5,BRA,Brazil,Ja,2
+Aleksander,8_delsfinale,8-delsfinale,6,NOR,Norway,Ja,2
+Aleksander,8_delsfinale,8-delsfinale,7,MEX,Mexico,Ja,2
+Aleksander,8_delsfinale,8-delsfinale,8,ENG,England,Ja,2
+Aleksander,8_delsfinale,8-delsfinale,9,CRO,Croatia,Nei,0
+Aleksander,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Aleksander,8_delsfinale,8-delsfinale,11,USA,United States,Ja,2
+Aleksander,8_delsfinale,8-delsfinale,12,BEL,Belgium,Ja,2
+Aleksander,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Aleksander,8_delsfinale,8-delsfinale,14,TUR,Türkiye,Nei,0
+Aleksander,8_delsfinale,8-delsfinale,15,JAP,Japan,Nei,0
+Aleksander,8_delsfinale,8-delsfinale,16,POR,Portugal,Ja,2
+Aleksander,kvartfinale,Kvartfinale,1,FRA,France,Ja,3
+Aleksander,kvartfinale,Kvartfinale,2,NED,Netherlands,Nei,0
+Aleksander,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Aleksander,kvartfinale,Kvartfinale,4,BEL,Belgium,Nei,0
+Aleksander,kvartfinale,Kvartfinale,5,BRA,Brazil,Nei,0
+Aleksander,kvartfinale,Kvartfinale,6,ENG,England,Ja,3
+Aleksander,kvartfinale,Kvartfinale,7,ARG,Argentina,Nei,0
+Aleksander,kvartfinale,Kvartfinale,8,POR,Portugal,Nei,0
+Aleksander,semifinale,Semifinale,1,FRA,France,Nei,0
+Aleksander,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Aleksander,semifinale,Semifinale,3,BRA,Brazil,Nei,0
+Aleksander,semifinale,Semifinale,4,ARG,Argentina,Nei,0
+Aleksander,vm_vinnar,VM-vinnar,1,FRA,France,Nei,0
+Aleksander,solv,Sølv,1,ARG,Argentina,Nei,0
+Aleksander,bronse,Bronse,1,BRA,Brazil,Nei,0
+Aleksander,toppscorer,Toppscorar,1,Mbappe (FRA),Mbappe (FRA),Nei,0
+Andrea,16_delsfinale,16-delsfinale,1,MEX,Mexico,Ja,1
+Andrea,16_delsfinale,16-delsfinale,2,BIH,Bosnia and Herzegovina,Ja,1
+Andrea,16_delsfinale,16-delsfinale,3,GER,Germany,Ja,1
+Andrea,16_delsfinale,16-delsfinale,4,JAP,Japan,Ja,1
+Andrea,16_delsfinale,16-delsfinale,5,NED,Netherlands,Ja,1
+Andrea,16_delsfinale,16-delsfinale,6,SCO,Scotland,Nei,0
+Andrea,16_delsfinale,16-delsfinale,7,BRA,Brazil,Ja,1
+Andrea,16_delsfinale,16-delsfinale,8,SWE,Sweden,Ja,1
+Andrea,16_delsfinale,16-delsfinale,9,FRA,France,Ja,1
+Andrea,16_delsfinale,16-delsfinale,10,MAR,Morocco,Ja,1
+Andrea,16_delsfinale,16-delsfinale,11,ECU,Ecuador,Ja,1
+Andrea,16_delsfinale,16-delsfinale,12,NOR,Norway,Ja,1
+Andrea,16_delsfinale,16-delsfinale,13,CZE,Czechia,Nei,0
+Andrea,16_delsfinale,16-delsfinale,14,SEN,Senegal,Ja,1
+Andrea,16_delsfinale,16-delsfinale,15,ENG,England,Ja,1
+Andrea,16_delsfinale,16-delsfinale,16,ALG,Algeria,Ja,1
+Andrea,16_delsfinale,16-delsfinale,17,TÜR,Türkiye,Nei,0
+Andrea,16_delsfinale,16-delsfinale,18,CAN,Canada,Ja,1
+Andrea,16_delsfinale,16-delsfinale,19,BEL,Belgium,Ja,1
+Andrea,16_delsfinale,16-delsfinale,20,RSA,South Africa,Ja,1
+Andrea,16_delsfinale,16-delsfinale,21,COL,Colombia,Ja,1
+Andrea,16_delsfinale,16-delsfinale,22,CRO,Croatia,Ja,1
+Andrea,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Andrea,16_delsfinale,16-delsfinale,24,AUT,Austria,Ja,1
+Andrea,16_delsfinale,16-delsfinale,25,SUI,Switzerland,Ja,1
+Andrea,16_delsfinale,16-delsfinale,26,IRA,Iran,Nei,0
+Andrea,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Andrea,16_delsfinale,16-delsfinale,28,URU,Uruguay,Nei,0
+Andrea,16_delsfinale,16-delsfinale,29,POR,Portugal,Ja,1
+Andrea,16_delsfinale,16-delsfinale,30,GHA,Ghana,Ja,1
+Andrea,16_delsfinale,16-delsfinale,31,PAR,Paraguay,Ja,1
+Andrea,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Andrea,8_delsfinale,8-delsfinale,1,GER,Germany,Nei,0
+Andrea,8_delsfinale,8-delsfinale,2,FRA,France,Ja,2
+Andrea,8_delsfinale,8-delsfinale,3,BIH,Bosnia and Herzegovina,Nei,0
+Andrea,8_delsfinale,8-delsfinale,4,SCO,Scotland,Nei,0
+Andrea,8_delsfinale,8-delsfinale,5,BRA,Brazil,Ja,2
+Andrea,8_delsfinale,8-delsfinale,6,NOR,Norway,Ja,2
+Andrea,8_delsfinale,8-delsfinale,7,SEN,Senegal,Nei,0
+Andrea,8_delsfinale,8-delsfinale,8,ENG,England,Ja,2
+Andrea,8_delsfinale,8-delsfinale,9,CRO,Croatia,Nei,0
+Andrea,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Andrea,8_delsfinale,8-delsfinale,11,TUR,Türkiye,Nei,0
+Andrea,8_delsfinale,8-delsfinale,12,BEL,Belgium,Ja,2
+Andrea,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Andrea,8_delsfinale,8-delsfinale,14,EGY,Egypt,Ja,2
+Andrea,8_delsfinale,8-delsfinale,15,SUI,Switzerland,Ja,2
+Andrea,8_delsfinale,8-delsfinale,16,POR,Portugal,Ja,2
+Andrea,kvartfinale,Kvartfinale,1,FRA,France,Ja,3
+Andrea,kvartfinale,Kvartfinale,2,SCO,Scotland,Nei,0
+Andrea,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Andrea,kvartfinale,Kvartfinale,4,BEL,Belgium,Nei,0
+Andrea,kvartfinale,Kvartfinale,5,NOR,Norway,Ja,3
+Andrea,kvartfinale,Kvartfinale,6,ENG,England,Ja,3
+Andrea,kvartfinale,Kvartfinale,7,ARG,Argentina,Nei,0
+Andrea,kvartfinale,Kvartfinale,8,POR,Portugal,Nei,0
+Andrea,semifinale,Semifinale,1,FRA,France,Nei,0
+Andrea,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Andrea,semifinale,Semifinale,3,NOR,Norway,Nei,0
+Andrea,semifinale,Semifinale,4,ARG,Argentina,Nei,0
+Andrea,vm_vinnar,VM-vinnar,1,FRA,France,Nei,0
+Andrea,solv,Sølv,1,NOR,Norway,Nei,0
+Andrea,bronse,Bronse,1,ARG,Argentina,Nei,0
+Andrea,toppscorer,Toppscorar,1,Mbappe (FRA),Mbappe (FRA),Nei,0
+Andrine,16_delsfinale,16-delsfinale,1,KOR,South Korea,Nei,0
+Andrine,16_delsfinale,16-delsfinale,2,CAN,Canada,Ja,1
+Andrine,16_delsfinale,16-delsfinale,3,GER,Germany,Ja,1
+Andrine,16_delsfinale,16-delsfinale,4,PAR,Paraguay,Ja,1
+Andrine,16_delsfinale,16-delsfinale,5,NED,Netherlands,Ja,1
+Andrine,16_delsfinale,16-delsfinale,6,BRA,Brazil,Ja,1
+Andrine,16_delsfinale,16-delsfinale,7,MAR,Morocco,Ja,1
+Andrine,16_delsfinale,16-delsfinale,8,JAP,Japan,Ja,1
+Andrine,16_delsfinale,16-delsfinale,9,FRA,France,Ja,1
+Andrine,16_delsfinale,16-delsfinale,10,NZL,New Zealand,Nei,0
+Andrine,16_delsfinale,16-delsfinale,11,ECU,Ecuador,Ja,1
+Andrine,16_delsfinale,16-delsfinale,12,NOR,Norway,Ja,1
+Andrine,16_delsfinale,16-delsfinale,13,MEX,Mexico,Ja,1
+Andrine,16_delsfinale,16-delsfinale,14,SCO,Scotland,Nei,0
+Andrine,16_delsfinale,16-delsfinale,15,ENG,England,Ja,1
+Andrine,16_delsfinale,16-delsfinale,16,COD,DR Congo,Ja,1
+Andrine,16_delsfinale,16-delsfinale,17,TÜR,Türkiye,Nei,0
+Andrine,16_delsfinale,16-delsfinale,18,SEN,Senegal,Ja,1
+Andrine,16_delsfinale,16-delsfinale,19,BEL,Belgium,Ja,1
+Andrine,16_delsfinale,16-delsfinale,20,ALG,Algeria,Ja,1
+Andrine,16_delsfinale,16-delsfinale,21,COL,Colombia,Ja,1
+Andrine,16_delsfinale,16-delsfinale,22,CRO,Croatia,Ja,1
+Andrine,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Andrine,16_delsfinale,16-delsfinale,24,AUT,Austria,Ja,1
+Andrine,16_delsfinale,16-delsfinale,25,SUI,Switzerland,Ja,1
+Andrine,16_delsfinale,16-delsfinale,26,SWE,Sweden,Ja,1
+Andrine,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Andrine,16_delsfinale,16-delsfinale,28,URU,Uruguay,Nei,0
+Andrine,16_delsfinale,16-delsfinale,29,POR,Portugal,Ja,1
+Andrine,16_delsfinale,16-delsfinale,30,GHA,Ghana,Ja,1
+Andrine,16_delsfinale,16-delsfinale,31,USA,United States,Ja,1
+Andrine,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Andrine,8_delsfinale,8-delsfinale,1,GER,Germany,Nei,0
+Andrine,8_delsfinale,8-delsfinale,2,FRA,France,Ja,2
+Andrine,8_delsfinale,8-delsfinale,3,CAN,Canada,Ja,2
+Andrine,8_delsfinale,8-delsfinale,4,BRA,Brazil,Ja,2
+Andrine,8_delsfinale,8-delsfinale,5,MAR,Morocco,Ja,2
+Andrine,8_delsfinale,8-delsfinale,6,NOR,Norway,Ja,2
+Andrine,8_delsfinale,8-delsfinale,7,MEX,Mexico,Ja,2
+Andrine,8_delsfinale,8-delsfinale,8,ENG,England,Ja,2
+Andrine,8_delsfinale,8-delsfinale,9,COL,Colombia,Ja,2
+Andrine,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Andrine,8_delsfinale,8-delsfinale,11,TUR,Türkiye,Nei,0
+Andrine,8_delsfinale,8-delsfinale,12,BEL,Belgium,Ja,2
+Andrine,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Andrine,8_delsfinale,8-delsfinale,14,EGY,Egypt,Ja,2
+Andrine,8_delsfinale,8-delsfinale,15,SUI,Switzerland,Ja,2
+Andrine,8_delsfinale,8-delsfinale,16,POR,Portugal,Ja,2
+Andrine,kvartfinale,Kvartfinale,1,GER,Germany,Nei,0
+Andrine,kvartfinale,Kvartfinale,2,BRA,Brazil,Nei,0
+Andrine,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Andrine,kvartfinale,Kvartfinale,4,BEL,Belgium,Nei,0
+Andrine,kvartfinale,Kvartfinale,5,NOR,Norway,Ja,3
+Andrine,kvartfinale,Kvartfinale,6,ENG,England,Ja,3
+Andrine,kvartfinale,Kvartfinale,7,ARG,Argentina,Nei,0
+Andrine,kvartfinale,Kvartfinale,8,POR,Portugal,Nei,0
+Andrine,semifinale,Semifinale,1,GER,Germany,Nei,0
+Andrine,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Andrine,semifinale,Semifinale,3,NOR,Norway,Nei,0
+Andrine,semifinale,Semifinale,4,ARG,Argentina,Nei,0
+Andrine,vm_vinnar,VM-vinnar,1,GER,Germany,Nei,0
+Andrine,solv,Sølv,1,ARG,Argentina,Nei,0
+Andrine,bronse,Bronse,1,ESP,Spain,Nei,0
+Andrine,toppscorer,Toppscorar,1,Yamal (ESP),Yamal (ESP),Nei,0
+Anita,16_delsfinale,16-delsfinale,1,CZE,Czechia,Nei,0
+Anita,16_delsfinale,16-delsfinale,2,BIH,Bosnia and Herzegovina,Ja,1
+Anita,16_delsfinale,16-delsfinale,3,GER,Germany,Ja,1
+Anita,16_delsfinale,16-delsfinale,4,KOR,South Korea,Nei,0
+Anita,16_delsfinale,16-delsfinale,5,NED,Netherlands,Ja,1
+Anita,16_delsfinale,16-delsfinale,6,MAR,Morocco,Ja,1
+Anita,16_delsfinale,16-delsfinale,7,BRA,Brazil,Ja,1
+Anita,16_delsfinale,16-delsfinale,8,SWE,Sweden,Ja,1
+Anita,16_delsfinale,16-delsfinale,9,FRA,France,Ja,1
+Anita,16_delsfinale,16-delsfinale,10,SCO,Scotland,Nei,0
+Anita,16_delsfinale,16-delsfinale,11,ECU,Ecuador,Ja,1
+Anita,16_delsfinale,16-delsfinale,12,NOR,Norway,Ja,1
+Anita,16_delsfinale,16-delsfinale,13,MEX,Mexico,Ja,1
+Anita,16_delsfinale,16-delsfinale,14,CIV,Ivory Coast,Ja,1
+Anita,16_delsfinale,16-delsfinale,15,ENG,England,Ja,1
+Anita,16_delsfinale,16-delsfinale,16,KSA,Saudi Arabia,Nei,0
+Anita,16_delsfinale,16-delsfinale,17,TÜR,Türkiye,Nei,0
+Anita,16_delsfinale,16-delsfinale,18,JAP,Japan,Ja,1
+Anita,16_delsfinale,16-delsfinale,19,BEL,Belgium,Ja,1
+Anita,16_delsfinale,16-delsfinale,20,SEN,Senegal,Ja,1
+Anita,16_delsfinale,16-delsfinale,21,COL,Colombia,Ja,1
+Anita,16_delsfinale,16-delsfinale,22,CRO,Croatia,Ja,1
+Anita,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Anita,16_delsfinale,16-delsfinale,24,AUT,Austria,Ja,1
+Anita,16_delsfinale,16-delsfinale,25,SUI,Switzerland,Ja,1
+Anita,16_delsfinale,16-delsfinale,26,ALG,Algeria,Ja,1
+Anita,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Anita,16_delsfinale,16-delsfinale,28,URU,Uruguay,Nei,0
+Anita,16_delsfinale,16-delsfinale,29,POR,Portugal,Ja,1
+Anita,16_delsfinale,16-delsfinale,30,GHA,Ghana,Ja,1
+Anita,16_delsfinale,16-delsfinale,31,USA,United States,Ja,1
+Anita,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Anita,8_delsfinale,8-delsfinale,1,GER,Germany,Nei,0
+Anita,8_delsfinale,8-delsfinale,2,FRA,France,Ja,2
+Anita,8_delsfinale,8-delsfinale,3,CZE,Czechia,Nei,0
+Anita,8_delsfinale,8-delsfinale,4,MAR,Morocco,Ja,2
+Anita,8_delsfinale,8-delsfinale,5,BRA,Brazil,Ja,2
+Anita,8_delsfinale,8-delsfinale,6,NOR,Norway,Ja,2
+Anita,8_delsfinale,8-delsfinale,7,CIV,Ivory Coast,Nei,0
+Anita,8_delsfinale,8-delsfinale,8,ENG,England,Ja,2
+Anita,8_delsfinale,8-delsfinale,9,CRO,Croatia,Nei,0
+Anita,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Anita,8_delsfinale,8-delsfinale,11,TUR,Türkiye,Nei,0
+Anita,8_delsfinale,8-delsfinale,12,BEL,Belgium,Ja,2
+Anita,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Anita,8_delsfinale,8-delsfinale,14,USA,United States,Ja,2
+Anita,8_delsfinale,8-delsfinale,15,SUI,Switzerland,Ja,2
+Anita,8_delsfinale,8-delsfinale,16,POR,Portugal,Ja,2
+Anita,kvartfinale,Kvartfinale,1,FRA,France,Ja,3
+Anita,kvartfinale,Kvartfinale,2,MAR,Morocco,Ja,3
+Anita,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Anita,kvartfinale,Kvartfinale,4,BEL,Belgium,Nei,0
+Anita,kvartfinale,Kvartfinale,5,BRA,Brazil,Nei,0
+Anita,kvartfinale,Kvartfinale,6,ENG,England,Ja,3
+Anita,kvartfinale,Kvartfinale,7,ARG,Argentina,Nei,0
+Anita,kvartfinale,Kvartfinale,8,POR,Portugal,Nei,0
+Anita,semifinale,Semifinale,1,FRA,France,Nei,0
+Anita,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Anita,semifinale,Semifinale,3,ENG,England,Nei,0
+Anita,semifinale,Semifinale,4,ARG,Argentina,Nei,0
+Anita,vm_vinnar,VM-vinnar,1,ENG,England,Nei,0
+Anita,solv,Sølv,1,ESP,Spain,Nei,0
+Anita,bronse,Bronse,1,FRA,France,Nei,0
+Anita,toppscorer,Toppscorar,1,Kane (ENG),Kane (ENG),Nei,0
+Arild,16_delsfinale,16-delsfinale,1,MEX,Mexico,Ja,1
+Arild,16_delsfinale,16-delsfinale,2,BIH,Bosnia and Herzegovina,Ja,1
+Arild,16_delsfinale,16-delsfinale,3,GER,Germany,Ja,1
+Arild,16_delsfinale,16-delsfinale,4,CZE,Czechia,Nei,0
+Arild,16_delsfinale,16-delsfinale,5,NED,Netherlands,Ja,1
+Arild,16_delsfinale,16-delsfinale,6,MAR,Morocco,Ja,1
+Arild,16_delsfinale,16-delsfinale,7,BRA,Brazil,Ja,1
+Arild,16_delsfinale,16-delsfinale,8,JAP,Japan,Ja,1
+Arild,16_delsfinale,16-delsfinale,9,FRA,France,Ja,1
+Arild,16_delsfinale,16-delsfinale,10,SCO,Scotland,Nei,0
+Arild,16_delsfinale,16-delsfinale,11,CIV,Ivory Coast,Ja,1
+Arild,16_delsfinale,16-delsfinale,12,NOR,Norway,Ja,1
+Arild,16_delsfinale,16-delsfinale,13,KOR,South Korea,Nei,0
+Arild,16_delsfinale,16-delsfinale,14,ECU,Ecuador,Ja,1
+Arild,16_delsfinale,16-delsfinale,15,CRO,Croatia,Ja,1
+Arild,16_delsfinale,16-delsfinale,16,SEN,Senegal,Ja,1
+Arild,16_delsfinale,16-delsfinale,17,TÜR,Türkiye,Nei,0
+Arild,16_delsfinale,16-delsfinale,18,SWE,Sweden,Ja,1
+Arild,16_delsfinale,16-delsfinale,19,BEL,Belgium,Ja,1
+Arild,16_delsfinale,16-delsfinale,20,ALG,Algeria,Ja,1
+Arild,16_delsfinale,16-delsfinale,21,COL,Colombia,Ja,1
+Arild,16_delsfinale,16-delsfinale,22,ENG,England,Ja,1
+Arild,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Arild,16_delsfinale,16-delsfinale,24,AUT,Austria,Ja,1
+Arild,16_delsfinale,16-delsfinale,25,SUI,Switzerland,Ja,1
+Arild,16_delsfinale,16-delsfinale,26,NZL,New Zealand,Nei,0
+Arild,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Arild,16_delsfinale,16-delsfinale,28,URU,Uruguay,Nei,0
+Arild,16_delsfinale,16-delsfinale,29,POR,Portugal,Ja,1
+Arild,16_delsfinale,16-delsfinale,30,USA,United States,Ja,1
+Arild,16_delsfinale,16-delsfinale,31,PAR,Paraguay,Ja,1
+Arild,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Arild,8_delsfinale,8-delsfinale,1,GER,Germany,Nei,0
+Arild,8_delsfinale,8-delsfinale,2,FRA,France,Ja,2
+Arild,8_delsfinale,8-delsfinale,3,MEX,Mexico,Ja,2
+Arild,8_delsfinale,8-delsfinale,4,MAR,Morocco,Ja,2
+Arild,8_delsfinale,8-delsfinale,5,BRA,Brazil,Ja,2
+Arild,8_delsfinale,8-delsfinale,6,NOR,Norway,Ja,2
+Arild,8_delsfinale,8-delsfinale,7,ECU,Ecuador,Nei,0
+Arild,8_delsfinale,8-delsfinale,8,SEN,Senegal,Nei,0
+Arild,8_delsfinale,8-delsfinale,9,ENG,England,Ja,2
+Arild,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Arild,8_delsfinale,8-delsfinale,11,TUR,Türkiye,Nei,0
+Arild,8_delsfinale,8-delsfinale,12,BEL,Belgium,Ja,2
+Arild,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Arild,8_delsfinale,8-delsfinale,14,EGY,Egypt,Ja,2
+Arild,8_delsfinale,8-delsfinale,15,SUI,Switzerland,Ja,2
+Arild,8_delsfinale,8-delsfinale,16,POR,Portugal,Ja,2
+Arild,kvartfinale,Kvartfinale,1,GER,Germany,Nei,0
+Arild,kvartfinale,Kvartfinale,2,MAR,Morocco,Ja,3
+Arild,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Arild,kvartfinale,Kvartfinale,4,BEL,Belgium,Nei,0
+Arild,kvartfinale,Kvartfinale,5,NOR,Norway,Ja,3
+Arild,kvartfinale,Kvartfinale,6,SEN,Senegal,Nei,0
+Arild,kvartfinale,Kvartfinale,7,ARG,Argentina,Nei,0
+Arild,kvartfinale,Kvartfinale,8,POR,Portugal,Nei,0
+Arild,semifinale,Semifinale,1,GER,Germany,Nei,0
+Arild,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Arild,semifinale,Semifinale,3,SEN,Senegal,Nei,0
+Arild,semifinale,Semifinale,4,ARG,Argentina,Nei,0
+Arild,vm_vinnar,VM-vinnar,1,GER,Germany,Nei,0
+Arild,solv,Sølv,1,ARG,Argentina,Nei,0
+Arild,bronse,Bronse,1,ESP,Spain,Nei,0
+Arild,toppscorer,Toppscorar,1,Musiala (GER),Musiala (GER),Nei,0
+Bjørn Tore,16_delsfinale,16-delsfinale,1,KOR,South Korea,Nei,0
+Bjørn Tore,16_delsfinale,16-delsfinale,2,CAN,Canada,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,3,GER,Germany,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,4,SCO,Scotland,Nei,0
+Bjørn Tore,16_delsfinale,16-delsfinale,5,NED,Netherlands,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,6,MAR,Morocco,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,7,BRA,Brazil,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,8,SWE,Sweden,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,9,FRA,France,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,10,JAP,Japan,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,11,ECU,Ecuador,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,12,NOR,Norway,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,13,MEX,Mexico,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,14,SEN,Senegal,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,15,ENG,England,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,16,AUT,Austria,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,17,USA,United States,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,18,SUI,Switzerland,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,19,BEL,Belgium,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,20,CZE,Czechia,Nei,0
+Bjørn Tore,16_delsfinale,16-delsfinale,21,POR,Portugal,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,22,CRO,Croatia,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,24,ALG,Algeria,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,25,BIH,Bosnia and Herzegovina,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,26,JOR,Jordan,Nei,0
+Bjørn Tore,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,28,URU,Uruguay,Nei,0
+Bjørn Tore,16_delsfinale,16-delsfinale,29,COL,Colombia,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,30,GHA,Ghana,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,31,AUS,Australia,Ja,1
+Bjørn Tore,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Bjørn Tore,8_delsfinale,8-delsfinale,1,GER,Germany,Nei,0
+Bjørn Tore,8_delsfinale,8-delsfinale,2,FRA,France,Ja,2
+Bjørn Tore,8_delsfinale,8-delsfinale,3,KOR,South Korea,Nei,0
+Bjørn Tore,8_delsfinale,8-delsfinale,4,NED,Netherlands,Nei,0
+Bjørn Tore,8_delsfinale,8-delsfinale,5,BRA,Brazil,Ja,2
+Bjørn Tore,8_delsfinale,8-delsfinale,6,NOR,Norway,Ja,2
+Bjørn Tore,8_delsfinale,8-delsfinale,7,MEX,Mexico,Ja,2
+Bjørn Tore,8_delsfinale,8-delsfinale,8,ENG,England,Ja,2
+Bjørn Tore,8_delsfinale,8-delsfinale,9,POR,Portugal,Ja,2
+Bjørn Tore,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Bjørn Tore,8_delsfinale,8-delsfinale,11,USA,United States,Ja,2
+Bjørn Tore,8_delsfinale,8-delsfinale,12,BEL,Belgium,Ja,2
+Bjørn Tore,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Bjørn Tore,8_delsfinale,8-delsfinale,14,EGY,Egypt,Ja,2
+Bjørn Tore,8_delsfinale,8-delsfinale,15,BIH,Bosnia and Herzegovina,Nei,0
+Bjørn Tore,8_delsfinale,8-delsfinale,16,COL,Colombia,Ja,2
+Bjørn Tore,kvartfinale,Kvartfinale,1,FRA,France,Ja,3
+Bjørn Tore,kvartfinale,Kvartfinale,2,NED,Netherlands,Nei,0
+Bjørn Tore,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Bjørn Tore,kvartfinale,Kvartfinale,4,BEL,Belgium,Nei,0
+Bjørn Tore,kvartfinale,Kvartfinale,5,BRA,Brazil,Nei,0
+Bjørn Tore,kvartfinale,Kvartfinale,6,ENG,England,Ja,3
+Bjørn Tore,kvartfinale,Kvartfinale,7,ARG,Argentina,Nei,0
+Bjørn Tore,kvartfinale,Kvartfinale,8,COL,Colombia,Nei,0
+Bjørn Tore,semifinale,Semifinale,1,NED,Netherlands,Nei,0
+Bjørn Tore,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Bjørn Tore,semifinale,Semifinale,3,ENG,England,Nei,0
+Bjørn Tore,semifinale,Semifinale,4,ARG,Argentina,Nei,0
+Bjørn Tore,vm_vinnar,VM-vinnar,1,ESP,Spain,Nei,0
+Bjørn Tore,solv,Sølv,1,ENG,England,Nei,0
+Bjørn Tore,bronse,Bronse,1,ARG,Argentina,Nei,0
+Bjørn Tore,toppscorer,Toppscorar,1,Kane (ENG),Kane (ENG),Nei,0
+Erik,16_delsfinale,16-delsfinale,1,RSA,South Africa,Ja,1
+Erik,16_delsfinale,16-delsfinale,2,BIH,Bosnia and Herzegovina,Ja,1
+Erik,16_delsfinale,16-delsfinale,3,GER,Germany,Ja,1
+Erik,16_delsfinale,16-delsfinale,4,SWE,Sweden,Ja,1
+Erik,16_delsfinale,16-delsfinale,5,NED,Netherlands,Ja,1
+Erik,16_delsfinale,16-delsfinale,6,MAR,Morocco,Ja,1
+Erik,16_delsfinale,16-delsfinale,7,BRA,Brazil,Ja,1
+Erik,16_delsfinale,16-delsfinale,8,JAP,Japan,Ja,1
+Erik,16_delsfinale,16-delsfinale,9,FRA,France,Ja,1
+Erik,16_delsfinale,16-delsfinale,10,IRN,Iran,Nei,0
+Erik,16_delsfinale,16-delsfinale,11,ECU,Ecuador,Ja,1
+Erik,16_delsfinale,16-delsfinale,12,NOR,Norway,Ja,1
+Erik,16_delsfinale,16-delsfinale,13,MEX,Mexico,Ja,1
+Erik,16_delsfinale,16-delsfinale,14,SEN,Senegal,Ja,1
+Erik,16_delsfinale,16-delsfinale,15,ENG,England,Ja,1
+Erik,16_delsfinale,16-delsfinale,16,ALG,Algeria,Ja,1
+Erik,16_delsfinale,16-delsfinale,17,TÜR,Türkiye,Nei,0
+Erik,16_delsfinale,16-delsfinale,18,CAN,Canada,Ja,1
+Erik,16_delsfinale,16-delsfinale,19,BEL,Belgium,Ja,1
+Erik,16_delsfinale,16-delsfinale,20,CZE,Czechia,Nei,0
+Erik,16_delsfinale,16-delsfinale,21,COD,DR Congo,Ja,1
+Erik,16_delsfinale,16-delsfinale,22,CRO,Croatia,Ja,1
+Erik,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Erik,16_delsfinale,16-delsfinale,24,AUT,Austria,Ja,1
+Erik,16_delsfinale,16-delsfinale,25,SUI,Switzerland,Ja,1
+Erik,16_delsfinale,16-delsfinale,26,CIV,Ivory Coast,Ja,1
+Erik,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Erik,16_delsfinale,16-delsfinale,28,URU,Uruguay,Nei,0
+Erik,16_delsfinale,16-delsfinale,29,POR,Portugal,Ja,1
+Erik,16_delsfinale,16-delsfinale,30,GHA,Ghana,Ja,1
+Erik,16_delsfinale,16-delsfinale,31,USA,United States,Ja,1
+Erik,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Erik,8_delsfinale,8-delsfinale,1,GER,Germany,Nei,0
+Erik,8_delsfinale,8-delsfinale,2,FRA,France,Ja,2
+Erik,8_delsfinale,8-delsfinale,3,KSA,Saudi Arabia,Nei,0
+Erik,8_delsfinale,8-delsfinale,4,MAR,Morocco,Ja,2
+Erik,8_delsfinale,8-delsfinale,5,BRA,Brazil,Ja,2
+Erik,8_delsfinale,8-delsfinale,6,NOR,Norway,Ja,2
+Erik,8_delsfinale,8-delsfinale,7,SEN,Senegal,Nei,0
+Erik,8_delsfinale,8-delsfinale,8,ENG,England,Ja,2
+Erik,8_delsfinale,8-delsfinale,9,CRO,Croatia,Nei,0
+Erik,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Erik,8_delsfinale,8-delsfinale,11,TUR,Türkiye,Nei,0
+Erik,8_delsfinale,8-delsfinale,12,BEL,Belgium,Ja,2
+Erik,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Erik,8_delsfinale,8-delsfinale,14,EGY,Egypt,Ja,2
+Erik,8_delsfinale,8-delsfinale,15,SUI,Switzerland,Ja,2
+Erik,8_delsfinale,8-delsfinale,16,POR,Portugal,Ja,2
+Erik,kvartfinale,Kvartfinale,1,FRA,France,Ja,3
+Erik,kvartfinale,Kvartfinale,2,MAR,Morocco,Ja,3
+Erik,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Erik,kvartfinale,Kvartfinale,4,BEL,Belgium,Nei,0
+Erik,kvartfinale,Kvartfinale,5,NOR,Norway,Ja,3
+Erik,kvartfinale,Kvartfinale,6,ENG,England,Ja,3
+Erik,kvartfinale,Kvartfinale,7,ARG,Argentina,Nei,0
+Erik,kvartfinale,Kvartfinale,8,SUI,Switzerland,Nei,0
+Erik,semifinale,Semifinale,1,FRA,France,Nei,0
+Erik,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Erik,semifinale,Semifinale,3,NOR,Norway,Nei,0
+Erik,semifinale,Semifinale,4,ARG,Argentina,Nei,0
+Erik,vm_vinnar,VM-vinnar,1,NOR,Norway,Nei,0
+Erik,solv,Sølv,1,FRA,France,Nei,0
+Erik,bronse,Bronse,1,ESP,Spain,Nei,0
+Erik,toppscorer,Toppscorar,1,Haaland (NOR),Haaland (NOR),Nei,0
+Hallgeir,16_delsfinale,16-delsfinale,1,CZE,Czechia,Nei,0
+Hallgeir,16_delsfinale,16-delsfinale,2,BIH,Bosnia and Herzegovina,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,3,CIV,Ivory Coast,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,4,SCO,Scotland,Nei,0
+Hallgeir,16_delsfinale,16-delsfinale,5,NED,Netherlands,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,6,MAR,Morocco,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,7,BRA,Brazil,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,8,JAP,Japan,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,9,FRA,France,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,10,SWE,Sweden,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,11,ECU,Ecuador,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,12,NOR,Norway,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,13,MEX,Mexico,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,14,SEN,Senegal,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,15,ENG,England,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,16,AUT,Austria,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,17,USA,United States,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,18,CAN,Canada,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,19,BEL,Belgium,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,20,KOR,South Korea,Nei,0
+Hallgeir,16_delsfinale,16-delsfinale,21,COL,Colombia,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,22,CRO,Croatia,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,24,ALG,Algeria,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,25,SUI,Switzerland,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,26,CIV,Ivory Coast,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,28,URU,Uruguay,Nei,0
+Hallgeir,16_delsfinale,16-delsfinale,29,POR,Portugal,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,30,PAR,Paraguay,Ja,1
+Hallgeir,16_delsfinale,16-delsfinale,31,TÜR,Türkiye,Nei,0
+Hallgeir,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Hallgeir,8_delsfinale,8-delsfinale,1,SCO,Scotland,Nei,0
+Hallgeir,8_delsfinale,8-delsfinale,2,FRA,France,Ja,2
+Hallgeir,8_delsfinale,8-delsfinale,3,CZE,Czechia,Nei,0
+Hallgeir,8_delsfinale,8-delsfinale,4,NED,Netherlands,Nei,0
+Hallgeir,8_delsfinale,8-delsfinale,5,BRA,Brazil,Ja,2
+Hallgeir,8_delsfinale,8-delsfinale,6,NOR,Norway,Ja,2
+Hallgeir,8_delsfinale,8-delsfinale,7,SEN,Senegal,Nei,0
+Hallgeir,8_delsfinale,8-delsfinale,8,ENG,England,Ja,2
+Hallgeir,8_delsfinale,8-delsfinale,9,CRO,Croatia,Nei,0
+Hallgeir,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Hallgeir,8_delsfinale,8-delsfinale,11,USA,United States,Ja,2
+Hallgeir,8_delsfinale,8-delsfinale,12,BEL,Belgium,Ja,2
+Hallgeir,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Hallgeir,8_delsfinale,8-delsfinale,14,EGY,Egypt,Ja,2
+Hallgeir,8_delsfinale,8-delsfinale,15,SUI,Switzerland,Ja,2
+Hallgeir,8_delsfinale,8-delsfinale,16,POR,Portugal,Ja,2
+Hallgeir,kvartfinale,Kvartfinale,1,FRA,France,Ja,3
+Hallgeir,kvartfinale,Kvartfinale,2,NED,Netherlands,Nei,0
+Hallgeir,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Hallgeir,kvartfinale,Kvartfinale,4,BEL,Belgium,Nei,0
+Hallgeir,kvartfinale,Kvartfinale,5,BRA,Brazil,Nei,0
+Hallgeir,kvartfinale,Kvartfinale,6,SEN,Senegal,Nei,0
+Hallgeir,kvartfinale,Kvartfinale,7,ARG,Argentina,Nei,0
+Hallgeir,kvartfinale,Kvartfinale,8,POR,Portugal,Nei,0
+Hallgeir,semifinale,Semifinale,1,FRA,France,Nei,0
+Hallgeir,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Hallgeir,semifinale,Semifinale,3,BRA,Brazil,Nei,0
+Hallgeir,semifinale,Semifinale,4,ARG,Argentina,Nei,0
+Hallgeir,vm_vinnar,VM-vinnar,1,ARG,Argentina,Nei,0
+Hallgeir,solv,Sølv,1,FRA,France,Nei,0
+Hallgeir,bronse,Bronse,1,ESP,Spain,Nei,0
+Hallgeir,toppscorer,Toppscorar,1,Mbappe (FRA),Mbappe (FRA),Nei,0
+Hallvard,16_delsfinale,16-delsfinale,1,CZE,Czechia,Nei,0
+Hallvard,16_delsfinale,16-delsfinale,2,CAN,Canada,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,3,GER,Germany,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,4,KOR,South Korea,Nei,0
+Hallvard,16_delsfinale,16-delsfinale,5,NED,Netherlands,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,6,MAR,Morocco,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,7,BRA,Brazil,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,8,JAP,Japan,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,9,FRA,France,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,10,PAR,Paraguay,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,11,CIV,Ivory Coast,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,12,NOR,Norway,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,13,MEX,Mexico,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,14,SWE,Sweden,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,15,ENG,England,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,16,SEN,Senegal,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,17,TÜR,Türkiye,Nei,0
+Hallvard,16_delsfinale,16-delsfinale,18,BIH,Bosnia and Herzegovina,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,19,BEL,Belgium,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,20,KSA,Saudi Arabia,Nei,0
+Hallvard,16_delsfinale,16-delsfinale,21,COL,Colombia,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,22,CRO,Croatia,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,24,AUT,Austria,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,25,SUI,Switzerland,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,26,ECU,Ecuador,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,28,URU,Uruguay,Nei,0
+Hallvard,16_delsfinale,16-delsfinale,29,POR,Portugal,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,30,GHA,Ghana,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,31,USA,United States,Ja,1
+Hallvard,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Hallvard,8_delsfinale,8-delsfinale,1,GER,Germany,Nei,0
+Hallvard,8_delsfinale,8-delsfinale,2,FRA,France,Ja,2
+Hallvard,8_delsfinale,8-delsfinale,3,CAN,Canada,Ja,2
+Hallvard,8_delsfinale,8-delsfinale,4,NED,Netherlands,Nei,0
+Hallvard,8_delsfinale,8-delsfinale,5,BRA,Brazil,Ja,2
+Hallvard,8_delsfinale,8-delsfinale,6,NOR,Norway,Ja,2
+Hallvard,8_delsfinale,8-delsfinale,7,MEX,Mexico,Ja,2
+Hallvard,8_delsfinale,8-delsfinale,8,ENG,England,Ja,2
+Hallvard,8_delsfinale,8-delsfinale,9,COL,Colombia,Ja,2
+Hallvard,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Hallvard,8_delsfinale,8-delsfinale,11,TUR,Türkiye,Nei,0
+Hallvard,8_delsfinale,8-delsfinale,12,BEL,Belgium,Ja,2
+Hallvard,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Hallvard,8_delsfinale,8-delsfinale,14,EGY,Egypt,Ja,2
+Hallvard,8_delsfinale,8-delsfinale,15,SUI,Switzerland,Ja,2
+Hallvard,8_delsfinale,8-delsfinale,16,POR,Portugal,Ja,2
+Hallvard,kvartfinale,Kvartfinale,1,FRA,France,Ja,3
+Hallvard,kvartfinale,Kvartfinale,2,NED,Netherlands,Nei,0
+Hallvard,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Hallvard,kvartfinale,Kvartfinale,4,BEL,Belgium,Nei,0
+Hallvard,kvartfinale,Kvartfinale,5,NOR,Norway,Ja,3
+Hallvard,kvartfinale,Kvartfinale,6,ENG,England,Ja,3
+Hallvard,kvartfinale,Kvartfinale,7,ARG,Argentina,Nei,0
+Hallvard,kvartfinale,Kvartfinale,8,POR,Portugal,Nei,0
+Hallvard,semifinale,Semifinale,1,FRA,France,Nei,0
+Hallvard,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Hallvard,semifinale,Semifinale,3,ENG,England,Nei,0
+Hallvard,semifinale,Semifinale,4,POR,Portugal,Nei,0
+Hallvard,vm_vinnar,VM-vinnar,1,FRA,France,Nei,0
+Hallvard,solv,Sølv,1,ENG,England,Nei,0
+Hallvard,bronse,Bronse,1,POR,Portugal,Nei,0
+Hallvard,toppscorer,Toppscorar,1,Kane (ENG),Kane (ENG),Nei,0
+Hege,16_delsfinale,16-delsfinale,1,MEX,Mexico,Ja,1
+Hege,16_delsfinale,16-delsfinale,2,BIH,Bosnia and Herzegovina,Ja,1
+Hege,16_delsfinale,16-delsfinale,3,GER,Germany,Ja,1
+Hege,16_delsfinale,16-delsfinale,4,USA,United States,Ja,1
+Hege,16_delsfinale,16-delsfinale,5,NED,Netherlands,Ja,1
+Hege,16_delsfinale,16-delsfinale,6,MAR,Morocco,Ja,1
+Hege,16_delsfinale,16-delsfinale,7,BRA,Brazil,Ja,1
+Hege,16_delsfinale,16-delsfinale,8,JAP,Japan,Ja,1
+Hege,16_delsfinale,16-delsfinale,9,FRA,France,Ja,1
+Hege,16_delsfinale,16-delsfinale,10,SWE,Sweden,Ja,1
+Hege,16_delsfinale,16-delsfinale,11,ECU,Ecuador,Ja,1
+Hege,16_delsfinale,16-delsfinale,12,NOR,Norway,Ja,1
+Hege,16_delsfinale,16-delsfinale,13,RSA,South Africa,Ja,1
+Hege,16_delsfinale,16-delsfinale,14,SEN,Senegal,Ja,1
+Hege,16_delsfinale,16-delsfinale,15,CRO,Croatia,Ja,1
+Hege,16_delsfinale,16-delsfinale,16,AUT,Austria,Ja,1
+Hege,16_delsfinale,16-delsfinale,17,PAR,Paraguay,Ja,1
+Hege,16_delsfinale,16-delsfinale,18,SUI,Switzerland,Ja,1
+Hege,16_delsfinale,16-delsfinale,19,BEL,Belgium,Ja,1
+Hege,16_delsfinale,16-delsfinale,20,CPV,Cape Verde,Ja,1
+Hege,16_delsfinale,16-delsfinale,21,COL,Colombia,Ja,1
+Hege,16_delsfinale,16-delsfinale,22,ENG,England,Ja,1
+Hege,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Hege,16_delsfinale,16-delsfinale,24,ALG,Algeria,Ja,1
+Hege,16_delsfinale,16-delsfinale,25,SUI,Switzerland,Ja,1
+Hege,16_delsfinale,16-delsfinale,26,IRN,Iran,Nei,0
+Hege,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Hege,16_delsfinale,16-delsfinale,28,URU,Uruguay,Nei,0
+Hege,16_delsfinale,16-delsfinale,29,POR,Portugal,Ja,1
+Hege,16_delsfinale,16-delsfinale,30,GHA,Ghana,Ja,1
+Hege,16_delsfinale,16-delsfinale,31,TÜR,Türkiye,Nei,0
+Hege,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Hege,8_delsfinale,8-delsfinale,1,GER,Germany,Nei,0
+Hege,8_delsfinale,8-delsfinale,2,FRA,France,Ja,2
+Hege,8_delsfinale,8-delsfinale,3,BIH,Bosnia and Herzegovina,Nei,0
+Hege,8_delsfinale,8-delsfinale,4,NED,Netherlands,Nei,0
+Hege,8_delsfinale,8-delsfinale,5,BRA,Brazil,Ja,2
+Hege,8_delsfinale,8-delsfinale,6,NOR,Norway,Ja,2
+Hege,8_delsfinale,8-delsfinale,7,SEN,Senegal,Nei,0
+Hege,8_delsfinale,8-delsfinale,8,CRO,Croatia,Nei,0
+Hege,8_delsfinale,8-delsfinale,9,ENG,England,Ja,2
+Hege,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Hege,8_delsfinale,8-delsfinale,11,PAR,Paraguay,Ja,2
+Hege,8_delsfinale,8-delsfinale,12,BEL,Belgium,Ja,2
+Hege,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Hege,8_delsfinale,8-delsfinale,14,EGY,Egypt,Ja,2
+Hege,8_delsfinale,8-delsfinale,15,CAN,Canada,Ja,2
+Hege,8_delsfinale,8-delsfinale,16,POR,Portugal,Ja,2
+Hege,kvartfinale,Kvartfinale,1,GER,Germany,Nei,0
+Hege,kvartfinale,Kvartfinale,2,NED,Netherlands,Nei,0
+Hege,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Hege,kvartfinale,Kvartfinale,4,BEL,Belgium,Nei,0
+Hege,kvartfinale,Kvartfinale,5,NOR,Norway,Ja,3
+Hege,kvartfinale,Kvartfinale,6,SEN,Senegal,Nei,0
+Hege,kvartfinale,Kvartfinale,7,EGY,Egypt,Nei,0
+Hege,kvartfinale,Kvartfinale,8,POR,Portugal,Nei,0
+Hege,semifinale,Semifinale,1,GER,Germany,Nei,0
+Hege,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Hege,semifinale,Semifinale,3,NOR,Norway,Nei,0
+Hege,semifinale,Semifinale,4,POR,Portugal,Nei,0
+Hege,vm_vinnar,VM-vinnar,1,GER,Germany,Nei,0
+Hege,solv,Sølv,1,NOR,Norway,Nei,0
+Hege,bronse,Bronse,1,POR,Portugal,Nei,0
+Hege,toppscorer,Toppscorar,1,Haaland (NOR),Haaland (NOR),Nei,0
+Janne Karin,16_delsfinale,16-delsfinale,1,CZE,Czechia,Nei,0
+Janne Karin,16_delsfinale,16-delsfinale,2,CAN,Canada,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,3,GER,Germany,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,4,SWE,Sweden,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,5,NED,Netherlands,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,6,MAR,Morocco,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,7,BRA,Brazil,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,8,JAP,Japan,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,9,FRA,France,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,10,SCO,Scotland,Nei,0
+Janne Karin,16_delsfinale,16-delsfinale,11,ECU,Ecuador,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,12,SEN,Senegal,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,13,MEX,Mexico,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,14,NOR,Norway,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,15,ENG,England,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,16,ALG,Algeria,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,17,TÜR,Türkiye,Nei,0
+Janne Karin,16_delsfinale,16-delsfinale,18,CIV,Ivory Coast,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,19,BEL,Belgium,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,20,KOR,South Korea,Nei,0
+Janne Karin,16_delsfinale,16-delsfinale,21,COL,Colombia,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,22,CRO,Croatia,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,24,AUT,Austria,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,25,SUI,Switzerland,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,26,IRA,Iran,Nei,0
+Janne Karin,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,28,URU,Uruguay,Nei,0
+Janne Karin,16_delsfinale,16-delsfinale,29,POR,Portugal,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,30,GHA,Ghana,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,31,PAR,Paraguay,Ja,1
+Janne Karin,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Janne Karin,8_delsfinale,8-delsfinale,1,GER,Germany,Nei,0
+Janne Karin,8_delsfinale,8-delsfinale,2,FRA,France,Ja,2
+Janne Karin,8_delsfinale,8-delsfinale,3,CZE,Czechia,Nei,0
+Janne Karin,8_delsfinale,8-delsfinale,4,MAR,Morocco,Ja,2
+Janne Karin,8_delsfinale,8-delsfinale,5,BRA,Brazil,Ja,2
+Janne Karin,8_delsfinale,8-delsfinale,6,SEN,Senegal,Nei,0
+Janne Karin,8_delsfinale,8-delsfinale,7,NOR,Norway,Ja,2
+Janne Karin,8_delsfinale,8-delsfinale,8,ENG,England,Ja,2
+Janne Karin,8_delsfinale,8-delsfinale,9,CRO,Croatia,Nei,0
+Janne Karin,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Janne Karin,8_delsfinale,8-delsfinale,11,TUR,Türkiye,Nei,0
+Janne Karin,8_delsfinale,8-delsfinale,12,BEL,Belgium,Ja,2
+Janne Karin,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Janne Karin,8_delsfinale,8-delsfinale,14,PAR,Paraguay,Ja,2
+Janne Karin,8_delsfinale,8-delsfinale,15,SUI,Switzerland,Ja,2
+Janne Karin,8_delsfinale,8-delsfinale,16,POR,Portugal,Ja,2
+Janne Karin,kvartfinale,Kvartfinale,1,FRA,France,Ja,3
+Janne Karin,kvartfinale,Kvartfinale,2,MAR,Morocco,Ja,3
+Janne Karin,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Janne Karin,kvartfinale,Kvartfinale,4,TUR,Türkiye,Nei,0
+Janne Karin,kvartfinale,Kvartfinale,5,BRA,Brazil,Nei,0
+Janne Karin,kvartfinale,Kvartfinale,6,ENG,England,Ja,3
+Janne Karin,kvartfinale,Kvartfinale,7,ARG,Argentina,Nei,0
+Janne Karin,kvartfinale,Kvartfinale,8,POR,Portugal,Nei,0
+Janne Karin,semifinale,Semifinale,1,FRA,France,Nei,0
+Janne Karin,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Janne Karin,semifinale,Semifinale,3,BRA,Brazil,Nei,0
+Janne Karin,semifinale,Semifinale,4,POR,Portugal,Nei,0
+Janne Karin,vm_vinnar,VM-vinnar,1,ESP,Spain,Nei,0
+Janne Karin,solv,Sølv,1,BRA,Brazil,Nei,0
+Janne Karin,bronse,Bronse,1,POR,Portugal,Nei,0
+Janne Karin,toppscorer,Toppscorar,1,Kane (ENG),Kane (ENG),Nei,0
+Johan,16_delsfinale,16-delsfinale,1,CZE,Czechia,Nei,0
+Johan,16_delsfinale,16-delsfinale,2,BIH,Bosnia and Herzegovina,Ja,1
+Johan,16_delsfinale,16-delsfinale,3,GER,Germany,Ja,1
+Johan,16_delsfinale,16-delsfinale,4,SCO,Scotland,Nei,0
+Johan,16_delsfinale,16-delsfinale,5,NED,Netherlands,Ja,1
+Johan,16_delsfinale,16-delsfinale,6,MAR,Morocco,Ja,1
+Johan,16_delsfinale,16-delsfinale,7,BRA,Brazil,Ja,1
+Johan,16_delsfinale,16-delsfinale,8,SWE,Sweden,Ja,1
+Johan,16_delsfinale,16-delsfinale,9,NOR,Norway,Ja,1
+Johan,16_delsfinale,16-delsfinale,10,PAR,Paraguay,Ja,1
+Johan,16_delsfinale,16-delsfinale,11,CIV,Ivory Coast,Ja,1
+Johan,16_delsfinale,16-delsfinale,12,FRA,France,Ja,1
+Johan,16_delsfinale,16-delsfinale,13,MEX,Mexico,Ja,1
+Johan,16_delsfinale,16-delsfinale,14,KSA,Saudi Arabia,Nei,0
+Johan,16_delsfinale,16-delsfinale,15,ENG,England,Ja,1
+Johan,16_delsfinale,16-delsfinale,16,SEN,Senegal,Ja,1
+Johan,16_delsfinale,16-delsfinale,17,USA,United States,Ja,1
+Johan,16_delsfinale,16-delsfinale,18,ECU,Ecuador,Ja,1
+Johan,16_delsfinale,16-delsfinale,19,BEL,Belgium,Ja,1
+Johan,16_delsfinale,16-delsfinale,20,KOR,South Korea,Nei,0
+Johan,16_delsfinale,16-delsfinale,21,COL,Colombia,Ja,1
+Johan,16_delsfinale,16-delsfinale,22,CRO,Croatia,Ja,1
+Johan,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Johan,16_delsfinale,16-delsfinale,24,AUT,Austria,Ja,1
+Johan,16_delsfinale,16-delsfinale,25,SUI,Switzerland,Ja,1
+Johan,16_delsfinale,16-delsfinale,26,TUN,Tunisia,Nei,0
+Johan,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Johan,16_delsfinale,16-delsfinale,28,URU,Uruguay,Nei,0
+Johan,16_delsfinale,16-delsfinale,29,POR,Portugal,Ja,1
+Johan,16_delsfinale,16-delsfinale,30,GHA,Ghana,Ja,1
+Johan,16_delsfinale,16-delsfinale,31,TÜR,Türkiye,Nei,0
+Johan,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Johan,8_delsfinale,8-delsfinale,1,GER,Germany,Nei,0
+Johan,8_delsfinale,8-delsfinale,2,NOR,Norway,Ja,2
+Johan,8_delsfinale,8-delsfinale,3,CZE,Czechia,Nei,0
+Johan,8_delsfinale,8-delsfinale,4,NED,Netherlands,Nei,0
+Johan,8_delsfinale,8-delsfinale,5,BRA,Brazil,Ja,2
+Johan,8_delsfinale,8-delsfinale,6,FRA,France,Ja,2
+Johan,8_delsfinale,8-delsfinale,7,MEX,Mexico,Ja,2
+Johan,8_delsfinale,8-delsfinale,8,ENG,England,Ja,2
+Johan,8_delsfinale,8-delsfinale,9,COL,Colombia,Ja,2
+Johan,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Johan,8_delsfinale,8-delsfinale,11,USA,United States,Ja,2
+Johan,8_delsfinale,8-delsfinale,12,BEL,Belgium,Ja,2
+Johan,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Johan,8_delsfinale,8-delsfinale,14,TUR,Türkiye,Nei,0
+Johan,8_delsfinale,8-delsfinale,15,SUI,Switzerland,Ja,2
+Johan,8_delsfinale,8-delsfinale,16,POR,Portugal,Ja,2
+Johan,kvartfinale,Kvartfinale,1,NOR,Norway,Ja,3
+Johan,kvartfinale,Kvartfinale,2,NED,Netherlands,Nei,0
+Johan,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Johan,kvartfinale,Kvartfinale,4,USA,United States,Nei,0
+Johan,kvartfinale,Kvartfinale,5,BRA,Brazil,Nei,0
+Johan,kvartfinale,Kvartfinale,6,ENG,England,Ja,3
+Johan,kvartfinale,Kvartfinale,7,ARG,Argentina,Nei,0
+Johan,kvartfinale,Kvartfinale,8,POR,Portugal,Nei,0
+Johan,semifinale,Semifinale,1,NOR,Norway,Nei,0
+Johan,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Johan,semifinale,Semifinale,3,BRA,Brazil,Nei,0
+Johan,semifinale,Semifinale,4,POR,Portugal,Nei,0
+Johan,vm_vinnar,VM-vinnar,1,BRA,Brazil,Nei,0
+Johan,solv,Sølv,1,ESP,Spain,Nei,0
+Johan,bronse,Bronse,1,NOR,Norway,Nei,0
+Johan,toppscorer,Toppscorar,1,Haaland (NOR),Haaland (NOR),Nei,0
+Kjersti,16_delsfinale,16-delsfinale,1,CZE,Czechia,Nei,0
+Kjersti,16_delsfinale,16-delsfinale,2,BIH,Bosnia and Herzegovina,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,3,GER,Germany,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,4,KOR,South Korea,Nei,0
+Kjersti,16_delsfinale,16-delsfinale,5,JAP,Japan,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,6,MAR,Morocco,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,7,BRA,Brazil,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,8,NED,Netherlands,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,9,FRA,France,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,10,SCO,Scotland,Nei,0
+Kjersti,16_delsfinale,16-delsfinale,11,ECU,Ecuador,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,12,NOR,Norway,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,13,MEX,Mexico,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,14,CIV,Ivory Coast,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,15,ENG,England,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,16,SAR,SAR,Nei,0
+Kjersti,16_delsfinale,16-delsfinale,17,USA,United States,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,18,CAN,Canada,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,19,BEL,Belgium,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,20,SEN,Senegal,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,21,COL,Colombia,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,22,CRO,Croatia,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,24,AUT,Austria,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,25,SUI,Switzerland,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,26,SWE,Sweden,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,28,URU,Uruguay,Nei,0
+Kjersti,16_delsfinale,16-delsfinale,29,POR,Portugal,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,30,TÜR,Türkiye,Nei,0
+Kjersti,16_delsfinale,16-delsfinale,31,PAR,Paraguay,Ja,1
+Kjersti,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Kjersti,8_delsfinale,8-delsfinale,1,GER,Germany,Nei,0
+Kjersti,8_delsfinale,8-delsfinale,2,FRA,France,Ja,2
+Kjersti,8_delsfinale,8-delsfinale,3,CZE,Czechia,Nei,0
+Kjersti,8_delsfinale,8-delsfinale,4,MAR,Morocco,Ja,2
+Kjersti,8_delsfinale,8-delsfinale,5,BRA,Brazil,Ja,2
+Kjersti,8_delsfinale,8-delsfinale,6,NOR,Norway,Ja,2
+Kjersti,8_delsfinale,8-delsfinale,7,MEX,Mexico,Ja,2
+Kjersti,8_delsfinale,8-delsfinale,8,ENG,England,Ja,2
+Kjersti,8_delsfinale,8-delsfinale,9,CRO,Croatia,Nei,0
+Kjersti,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Kjersti,8_delsfinale,8-delsfinale,11,USA,United States,Ja,2
+Kjersti,8_delsfinale,8-delsfinale,12,BEL,Belgium,Ja,2
+Kjersti,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Kjersti,8_delsfinale,8-delsfinale,14,EGY,Egypt,Ja,2
+Kjersti,8_delsfinale,8-delsfinale,15,SUI,Switzerland,Ja,2
+Kjersti,8_delsfinale,8-delsfinale,16,POR,Portugal,Ja,2
+Kjersti,kvartfinale,Kvartfinale,1,FRA,France,Ja,3
+Kjersti,kvartfinale,Kvartfinale,2,MAR,Morocco,Ja,3
+Kjersti,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Kjersti,kvartfinale,Kvartfinale,4,BEL,Belgium,Nei,0
+Kjersti,kvartfinale,Kvartfinale,5,BRA,Brazil,Nei,0
+Kjersti,kvartfinale,Kvartfinale,6,ENG,England,Ja,3
+Kjersti,kvartfinale,Kvartfinale,7,ARG,Argentina,Nei,0
+Kjersti,kvartfinale,Kvartfinale,8,POR,Portugal,Nei,0
+Kjersti,semifinale,Semifinale,1,FRA,France,Nei,0
+Kjersti,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Kjersti,semifinale,Semifinale,3,BRA,Brazil,Nei,0
+Kjersti,semifinale,Semifinale,4,ARG,Argentina,Nei,0
+Kjersti,vm_vinnar,VM-vinnar,1,ESP,Spain,Nei,0
+Kjersti,solv,Sølv,1,BRA,Brazil,Nei,0
+Kjersti,bronse,Bronse,1,FRA,France,Nei,0
+Kjersti,toppscorer,Toppscorar,1,Mbappe (FRA),Mbappe (FRA),Nei,0
+Kristina,16_delsfinale,16-delsfinale,1,MEX,Mexico,Ja,1
+Kristina,16_delsfinale,16-delsfinale,2,BIH,Bosnia and Herzegovina,Ja,1
+Kristina,16_delsfinale,16-delsfinale,3,CIV,Ivory Coast,Ja,1
+Kristina,16_delsfinale,16-delsfinale,4,SCO,Scotland,Nei,0
+Kristina,16_delsfinale,16-delsfinale,5,NED,Netherlands,Ja,1
+Kristina,16_delsfinale,16-delsfinale,6,MAR,Morocco,Ja,1
+Kristina,16_delsfinale,16-delsfinale,7,BRA,Brazil,Ja,1
+Kristina,16_delsfinale,16-delsfinale,8,JAP,Japan,Ja,1
+Kristina,16_delsfinale,16-delsfinale,9,FRA,France,Ja,1
+Kristina,16_delsfinale,16-delsfinale,10,USA,United States,Ja,1
+Kristina,16_delsfinale,16-delsfinale,11,GER,Germany,Ja,1
+Kristina,16_delsfinale,16-delsfinale,12,NOR,Norway,Ja,1
+Kristina,16_delsfinale,16-delsfinale,13,KOR,South Korea,Nei,0
+Kristina,16_delsfinale,16-delsfinale,14,SWE,Sweden,Ja,1
+Kristina,16_delsfinale,16-delsfinale,15,ENG,England,Ja,1
+Kristina,16_delsfinale,16-delsfinale,16,ECU,Ecuador,Ja,1
+Kristina,16_delsfinale,16-delsfinale,17,TÜR,Türkiye,Nei,0
+Kristina,16_delsfinale,16-delsfinale,18,CAN,Canada,Ja,1
+Kristina,16_delsfinale,16-delsfinale,19,BEL,Belgium,Ja,1
+Kristina,16_delsfinale,16-delsfinale,20,RSA,South Africa,Ja,1
+Kristina,16_delsfinale,16-delsfinale,21,COL,Colombia,Ja,1
+Kristina,16_delsfinale,16-delsfinale,22,AUT,Austria,Ja,1
+Kristina,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Kristina,16_delsfinale,16-delsfinale,24,ALG,Algeria,Ja,1
+Kristina,16_delsfinale,16-delsfinale,25,SUI,Switzerland,Ja,1
+Kristina,16_delsfinale,16-delsfinale,26,SEN,Senegal,Ja,1
+Kristina,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Kristina,16_delsfinale,16-delsfinale,28,URU,Uruguay,Nei,0
+Kristina,16_delsfinale,16-delsfinale,29,POR,Portugal,Ja,1
+Kristina,16_delsfinale,16-delsfinale,30,CRO,Croatia,Ja,1
+Kristina,16_delsfinale,16-delsfinale,31,PAR,Paraguay,Ja,1
+Kristina,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Kristina,8_delsfinale,8-delsfinale,1,CIV,Ivory Coast,Nei,0
+Kristina,8_delsfinale,8-delsfinale,2,FRA,France,Ja,2
+Kristina,8_delsfinale,8-delsfinale,3,BIH,Bosnia and Herzegovina,Nei,0
+Kristina,8_delsfinale,8-delsfinale,4,NED,Netherlands,Nei,0
+Kristina,8_delsfinale,8-delsfinale,5,BRA,Brazil,Ja,2
+Kristina,8_delsfinale,8-delsfinale,6,NOR,Norway,Ja,2
+Kristina,8_delsfinale,8-delsfinale,7,KOR,South Korea,Nei,0
+Kristina,8_delsfinale,8-delsfinale,8,ENG,England,Ja,2
+Kristina,8_delsfinale,8-delsfinale,9,COL,Colombia,Ja,2
+Kristina,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Kristina,8_delsfinale,8-delsfinale,11,TUR,Türkiye,Nei,0
+Kristina,8_delsfinale,8-delsfinale,12,BEL,Belgium,Ja,2
+Kristina,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Kristina,8_delsfinale,8-delsfinale,14,EGY,Egypt,Ja,2
+Kristina,8_delsfinale,8-delsfinale,15,SEN,Senegal,Nei,0
+Kristina,8_delsfinale,8-delsfinale,16,POR,Portugal,Ja,2
+Kristina,kvartfinale,Kvartfinale,1,FRA,France,Ja,3
+Kristina,kvartfinale,Kvartfinale,2,NED,Netherlands,Nei,0
+Kristina,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Kristina,kvartfinale,Kvartfinale,4,TUR,Türkiye,Nei,0
+Kristina,kvartfinale,Kvartfinale,5,BRA,Brazil,Nei,0
+Kristina,kvartfinale,Kvartfinale,6,ENG,England,Ja,3
+Kristina,kvartfinale,Kvartfinale,7,ARG,Argentina,Nei,0
+Kristina,kvartfinale,Kvartfinale,8,POR,Portugal,Nei,0
+Kristina,semifinale,Semifinale,1,FRA,France,Nei,0
+Kristina,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Kristina,semifinale,Semifinale,3,ENG,England,Nei,0
+Kristina,semifinale,Semifinale,4,ARG,Argentina,Nei,0
+Kristina,vm_vinnar,VM-vinnar,1,ESP,Spain,Nei,0
+Kristina,solv,Sølv,1,ARG,Argentina,Nei,0
+Kristina,bronse,Bronse,1,FRA,France,Nei,0
+Kristina,toppscorer,Toppscorar,1,Mbappe (FRA),Mbappe (FRA),Nei,0
+Kåre,16_delsfinale,16-delsfinale,1,CZE,Czechia,Nei,0
+Kåre,16_delsfinale,16-delsfinale,2,CAN,Canada,Ja,1
+Kåre,16_delsfinale,16-delsfinale,3,GER,Germany,Ja,1
+Kåre,16_delsfinale,16-delsfinale,4,SWE,Sweden,Ja,1
+Kåre,16_delsfinale,16-delsfinale,5,NED,Netherlands,Ja,1
+Kåre,16_delsfinale,16-delsfinale,6,MAR,Morocco,Ja,1
+Kåre,16_delsfinale,16-delsfinale,7,BRA,Brazil,Ja,1
+Kåre,16_delsfinale,16-delsfinale,8,JAP,Japan,Ja,1
+Kåre,16_delsfinale,16-delsfinale,9,FRA,France,Ja,1
+Kåre,16_delsfinale,16-delsfinale,10,SCO,Scotland,Nei,0
+Kåre,16_delsfinale,16-delsfinale,11,ECU,Ecuador,Ja,1
+Kåre,16_delsfinale,16-delsfinale,12,NOR,Norway,Ja,1
+Kåre,16_delsfinale,16-delsfinale,13,MEX,Mexico,Ja,1
+Kåre,16_delsfinale,16-delsfinale,14,SEN,Senegal,Ja,1
+Kåre,16_delsfinale,16-delsfinale,15,ENG,England,Ja,1
+Kåre,16_delsfinale,16-delsfinale,16,ALG,Algeria,Ja,1
+Kåre,16_delsfinale,16-delsfinale,17,USA,United States,Ja,1
+Kåre,16_delsfinale,16-delsfinale,18,CIV,Ivory Coast,Ja,1
+Kåre,16_delsfinale,16-delsfinale,19,BEL,Belgium,Ja,1
+Kåre,16_delsfinale,16-delsfinale,20,COD,DR Congo,Ja,1
+Kåre,16_delsfinale,16-delsfinale,21,COL,Colombia,Ja,1
+Kåre,16_delsfinale,16-delsfinale,22,CRO,Croatia,Ja,1
+Kåre,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Kåre,16_delsfinale,16-delsfinale,24,AUT,Austria,Ja,1
+Kåre,16_delsfinale,16-delsfinale,25,SUI,Switzerland,Ja,1
+Kåre,16_delsfinale,16-delsfinale,26,SAR,SAR,Nei,0
+Kåre,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Kåre,16_delsfinale,16-delsfinale,28,URU,Uruguay,Nei,0
+Kåre,16_delsfinale,16-delsfinale,29,POR,Portugal,Ja,1
+Kåre,16_delsfinale,16-delsfinale,30,PAR,Paraguay,Ja,1
+Kåre,16_delsfinale,16-delsfinale,31,TÜR,Türkiye,Nei,0
+Kåre,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Kåre,8_delsfinale,8-delsfinale,1,GER,Germany,Nei,0
+Kåre,8_delsfinale,8-delsfinale,2,FRA,France,Ja,2
+Kåre,8_delsfinale,8-delsfinale,3,CZE,Czechia,Nei,0
+Kåre,8_delsfinale,8-delsfinale,4,NED,Netherlands,Nei,0
+Kåre,8_delsfinale,8-delsfinale,5,BRA,Brazil,Ja,2
+Kåre,8_delsfinale,8-delsfinale,6,NOR,Norway,Ja,2
+Kåre,8_delsfinale,8-delsfinale,7,SEN,Senegal,Nei,0
+Kåre,8_delsfinale,8-delsfinale,8,ENG,England,Ja,2
+Kåre,8_delsfinale,8-delsfinale,9,CRO,Croatia,Nei,0
+Kåre,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Kåre,8_delsfinale,8-delsfinale,11,USA,United States,Ja,2
+Kåre,8_delsfinale,8-delsfinale,12,BEL,Belgium,Ja,2
+Kåre,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Kåre,8_delsfinale,8-delsfinale,14,TUR,Türkiye,Nei,0
+Kåre,8_delsfinale,8-delsfinale,15,SUI,Switzerland,Ja,2
+Kåre,8_delsfinale,8-delsfinale,16,POR,Portugal,Ja,2
+Kåre,kvartfinale,Kvartfinale,1,FRA,France,Ja,3
+Kåre,kvartfinale,Kvartfinale,2,NED,Netherlands,Nei,0
+Kåre,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Kåre,kvartfinale,Kvartfinale,4,USA,United States,Nei,0
+Kåre,kvartfinale,Kvartfinale,5,NOR,Norway,Ja,3
+Kåre,kvartfinale,Kvartfinale,6,ENG,England,Ja,3
+Kåre,kvartfinale,Kvartfinale,7,ARG,Argentina,Nei,0
+Kåre,kvartfinale,Kvartfinale,8,POR,Portugal,Nei,0
+Kåre,semifinale,Semifinale,1,FRA,France,Nei,0
+Kåre,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Kåre,semifinale,Semifinale,3,NOR,Norway,Nei,0
+Kåre,semifinale,Semifinale,4,ARG,Argentina,Nei,0
+Kåre,vm_vinnar,VM-vinnar,1,FRA,France,Nei,0
+Kåre,solv,Sølv,1,ARG,Argentina,Nei,0
+Kåre,bronse,Bronse,1,ESP,Spain,Nei,0
+Kåre,toppscorer,Toppscorar,1,Mbappe (FRA),Mbappe (FRA),Nei,0
+Miriam,16_delsfinale,16-delsfinale,1,KOR,South Korea,Nei,0
+Miriam,16_delsfinale,16-delsfinale,2,CAN,Canada,Ja,1
+Miriam,16_delsfinale,16-delsfinale,3,GER,Germany,Ja,1
+Miriam,16_delsfinale,16-delsfinale,4,CZE,Czechia,Nei,0
+Miriam,16_delsfinale,16-delsfinale,5,NED,Netherlands,Ja,1
+Miriam,16_delsfinale,16-delsfinale,6,MAR,Morocco,Ja,1
+Miriam,16_delsfinale,16-delsfinale,7,BRA,Brazil,Ja,1
+Miriam,16_delsfinale,16-delsfinale,8,JAP,Japan,Ja,1
+Miriam,16_delsfinale,16-delsfinale,9,FRA,France,Ja,1
+Miriam,16_delsfinale,16-delsfinale,10,SCO,Scotland,Nei,0
+Miriam,16_delsfinale,16-delsfinale,11,ECU,Ecuador,Ja,1
+Miriam,16_delsfinale,16-delsfinale,12,NOR,Norway,Ja,1
+Miriam,16_delsfinale,16-delsfinale,13,MEX,Mexico,Ja,1
+Miriam,16_delsfinale,16-delsfinale,14,CIV,Ivory Coast,Ja,1
+Miriam,16_delsfinale,16-delsfinale,15,ENG,England,Ja,1
+Miriam,16_delsfinale,16-delsfinale,16,SAR,SAR,Nei,0
+Miriam,16_delsfinale,16-delsfinale,17,TÜR,Türkiye,Nei,0
+Miriam,16_delsfinale,16-delsfinale,18,NZL,New Zealand,Nei,0
+Miriam,16_delsfinale,16-delsfinale,19,BEL,Belgium,Ja,1
+Miriam,16_delsfinale,16-delsfinale,20,GHA,Ghana,Ja,1
+Miriam,16_delsfinale,16-delsfinale,21,COL,Colombia,Ja,1
+Miriam,16_delsfinale,16-delsfinale,22,CRO,Croatia,Ja,1
+Miriam,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Miriam,16_delsfinale,16-delsfinale,24,ALG,Algeria,Ja,1
+Miriam,16_delsfinale,16-delsfinale,25,BIH,Bosnia and Herzegovina,Ja,1
+Miriam,16_delsfinale,16-delsfinale,26,JOR,Jordan,Nei,0
+Miriam,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Miriam,16_delsfinale,16-delsfinale,28,URU,Uruguay,Nei,0
+Miriam,16_delsfinale,16-delsfinale,29,COL,Colombia,Ja,1
+Miriam,16_delsfinale,16-delsfinale,30,GHA,Ghana,Ja,1
+Miriam,16_delsfinale,16-delsfinale,31,AUS,Australia,Ja,1
+Miriam,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Miriam,8_delsfinale,8-delsfinale,1,GER,Germany,Nei,0
+Miriam,8_delsfinale,8-delsfinale,2,FRA,France,Ja,2
+Miriam,8_delsfinale,8-delsfinale,3,KOR,South Korea,Nei,0
+Miriam,8_delsfinale,8-delsfinale,4,NED,Netherlands,Nei,0
+Miriam,8_delsfinale,8-delsfinale,5,BRA,Brazil,Ja,2
+Miriam,8_delsfinale,8-delsfinale,6,NOR,Norway,Ja,2
+Miriam,8_delsfinale,8-delsfinale,7,MEX,Mexico,Ja,2
+Miriam,8_delsfinale,8-delsfinale,8,ENG,England,Ja,2
+Miriam,8_delsfinale,8-delsfinale,9,COL,Colombia,Ja,2
+Miriam,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Miriam,8_delsfinale,8-delsfinale,11,TUR,Türkiye,Nei,0
+Miriam,8_delsfinale,8-delsfinale,12,BEL,Belgium,Ja,2
+Miriam,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Miriam,8_delsfinale,8-delsfinale,14,USA,United States,Ja,2
+Miriam,8_delsfinale,8-delsfinale,15,SUI,Switzerland,Ja,2
+Miriam,8_delsfinale,8-delsfinale,16,POR,Portugal,Ja,2
+Miriam,kvartfinale,Kvartfinale,1,FRA,France,Ja,3
+Miriam,kvartfinale,Kvartfinale,2,NED,Netherlands,Nei,0
+Miriam,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Miriam,kvartfinale,Kvartfinale,4,BEL,Belgium,Nei,0
+Miriam,kvartfinale,Kvartfinale,5,NOR,Norway,Ja,3
+Miriam,kvartfinale,Kvartfinale,6,ENG,England,Ja,3
+Miriam,kvartfinale,Kvartfinale,7,ARG,Argentina,Nei,0
+Miriam,kvartfinale,Kvartfinale,8,POR,Portugal,Nei,0
+Miriam,semifinale,Semifinale,1,FRA,France,Nei,0
+Miriam,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Miriam,semifinale,Semifinale,3,ENG,England,Nei,0
+Miriam,semifinale,Semifinale,4,POR,Portugal,Nei,0
+Miriam,vm_vinnar,VM-vinnar,1,ESP,Spain,Nei,0
+Miriam,solv,Sølv,1,ENG,England,Nei,0
+Miriam,bronse,Bronse,1,FRA,France,Nei,0
+Miriam,toppscorer,Toppscorar,1,Oyarzabal (ESP),Oyarzabal (ESP),Nei,0
+Mona,16_delsfinale,16-delsfinale,1,CZE,Czechia,Nei,0
+Mona,16_delsfinale,16-delsfinale,2,SUI,Switzerland,Ja,1
+Mona,16_delsfinale,16-delsfinale,3,GER,Germany,Ja,1
+Mona,16_delsfinale,16-delsfinale,4,SCO,Scotland,Nei,0
+Mona,16_delsfinale,16-delsfinale,5,NED,Netherlands,Ja,1
+Mona,16_delsfinale,16-delsfinale,6,MAR,Morocco,Ja,1
+Mona,16_delsfinale,16-delsfinale,7,BRA,Brazil,Ja,1
+Mona,16_delsfinale,16-delsfinale,8,SWE,Sweden,Ja,1
+Mona,16_delsfinale,16-delsfinale,9,FRA,France,Ja,1
+Mona,16_delsfinale,16-delsfinale,10,JAP,Japan,Ja,1
+Mona,16_delsfinale,16-delsfinale,11,CIV,Ivory Coast,Ja,1
+Mona,16_delsfinale,16-delsfinale,12,NOR,Norway,Ja,1
+Mona,16_delsfinale,16-delsfinale,13,MEX,Mexico,Ja,1
+Mona,16_delsfinale,16-delsfinale,14,ECU,Ecuador,Ja,1
+Mona,16_delsfinale,16-delsfinale,15,ENG,England,Ja,1
+Mona,16_delsfinale,16-delsfinale,16,SEN,Senegal,Ja,1
+Mona,16_delsfinale,16-delsfinale,17,USA,United States,Ja,1
+Mona,16_delsfinale,16-delsfinale,18,BIH,Bosnia and Herzegovina,Ja,1
+Mona,16_delsfinale,16-delsfinale,19,BEL,Belgium,Ja,1
+Mona,16_delsfinale,16-delsfinale,20,ALG,Algeria,Ja,1
+Mona,16_delsfinale,16-delsfinale,21,COL,Colombia,Ja,1
+Mona,16_delsfinale,16-delsfinale,22,CRO,Croatia,Ja,1
+Mona,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Mona,16_delsfinale,16-delsfinale,24,AUT,Austria,Ja,1
+Mona,16_delsfinale,16-delsfinale,25,CAN,Canada,Ja,1
+Mona,16_delsfinale,16-delsfinale,26,IRN,Iran,Nei,0
+Mona,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Mona,16_delsfinale,16-delsfinale,28,URU,Uruguay,Nei,0
+Mona,16_delsfinale,16-delsfinale,29,POR,Portugal,Ja,1
+Mona,16_delsfinale,16-delsfinale,30,GHA,Ghana,Ja,1
+Mona,16_delsfinale,16-delsfinale,31,TÜR,Türkiye,Nei,0
+Mona,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Mona,8_delsfinale,8-delsfinale,1,GER,Germany,Nei,0
+Mona,8_delsfinale,8-delsfinale,2,FRA,France,Ja,2
+Mona,8_delsfinale,8-delsfinale,3,SUI,Switzerland,Ja,2
+Mona,8_delsfinale,8-delsfinale,4,NED,Netherlands,Nei,0
+Mona,8_delsfinale,8-delsfinale,5,BRA,Brazil,Ja,2
+Mona,8_delsfinale,8-delsfinale,6,NOR,Norway,Ja,2
+Mona,8_delsfinale,8-delsfinale,7,MEX,Mexico,Ja,2
+Mona,8_delsfinale,8-delsfinale,8,ENG,England,Ja,2
+Mona,8_delsfinale,8-delsfinale,9,CRO,Croatia,Nei,0
+Mona,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Mona,8_delsfinale,8-delsfinale,11,USA,United States,Ja,2
+Mona,8_delsfinale,8-delsfinale,12,BEL,Belgium,Ja,2
+Mona,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Mona,8_delsfinale,8-delsfinale,14,EGY,Egypt,Ja,2
+Mona,8_delsfinale,8-delsfinale,15,CAN,Canada,Ja,2
+Mona,8_delsfinale,8-delsfinale,16,POR,Portugal,Ja,2
+Mona,kvartfinale,Kvartfinale,1,FRA,France,Ja,3
+Mona,kvartfinale,Kvartfinale,2,NED,Netherlands,Nei,0
+Mona,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Mona,kvartfinale,Kvartfinale,4,BEL,Belgium,Nei,0
+Mona,kvartfinale,Kvartfinale,5,BRA,Brazil,Nei,0
+Mona,kvartfinale,Kvartfinale,6,ENG,England,Ja,3
+Mona,kvartfinale,Kvartfinale,7,ARG,Argentina,Nei,0
+Mona,kvartfinale,Kvartfinale,8,POR,Portugal,Nei,0
+Mona,semifinale,Semifinale,1,FRA,France,Nei,0
+Mona,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Mona,semifinale,Semifinale,3,ENG,England,Nei,0
+Mona,semifinale,Semifinale,4,ARG,Argentina,Nei,0
+Mona,vm_vinnar,VM-vinnar,1,ESP,Spain,Nei,0
+Mona,solv,Sølv,1,ARG,Argentina,Nei,0
+Mona,bronse,Bronse,1,FRA,France,Nei,0
+Mona,toppscorer,Toppscorar,1,Kane (ENG),Kane (ENG),Nei,0
+Nikolai,16_delsfinale,16-delsfinale,1,KOR,South Korea,Nei,0
+Nikolai,16_delsfinale,16-delsfinale,2,CAN,Canada,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,3,GER,Germany,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,4,SCO,Scotland,Nei,0
+Nikolai,16_delsfinale,16-delsfinale,5,NED,Netherlands,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,6,BRA,Brazil,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,7,MAR,Morocco,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,8,JAP,Japan,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,9,FRA,France,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,10,USA,United States,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,11,ECU,Ecuador,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,12,NOR,Norway,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,13,MEX,Mexico,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,14,KSA,Saudi Arabia,Nei,0
+Nikolai,16_delsfinale,16-delsfinale,15,ENG,England,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,16,SEN,Senegal,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,17,TÜR,Türkiye,Nei,0
+Nikolai,16_delsfinale,16-delsfinale,18,ALG,Algeria,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,19,BEL,Belgium,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,20,CZE,Czechia,Nei,0
+Nikolai,16_delsfinale,16-delsfinale,21,COL,Colombia,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,22,CRO,Croatia,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,24,AUT,Austria,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,25,SUI,Switzerland,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,26,SWE,Sweden,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,28,URU,Uruguay,Nei,0
+Nikolai,16_delsfinale,16-delsfinale,29,POR,Portugal,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,30,CIV,Ivory Coast,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,31,AUS,Australia,Ja,1
+Nikolai,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Nikolai,8_delsfinale,8-delsfinale,1,GER,Germany,Nei,0
+Nikolai,8_delsfinale,8-delsfinale,2,FRA,France,Ja,2
+Nikolai,8_delsfinale,8-delsfinale,3,KOR,South Korea,Nei,0
+Nikolai,8_delsfinale,8-delsfinale,4,NED,Netherlands,Nei,0
+Nikolai,8_delsfinale,8-delsfinale,5,MAR,Morocco,Ja,2
+Nikolai,8_delsfinale,8-delsfinale,6,NOR,Norway,Ja,2
+Nikolai,8_delsfinale,8-delsfinale,7,KSA,Saudi Arabia,Nei,0
+Nikolai,8_delsfinale,8-delsfinale,8,ENG,England,Ja,2
+Nikolai,8_delsfinale,8-delsfinale,9,CRO,Croatia,Nei,0
+Nikolai,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Nikolai,8_delsfinale,8-delsfinale,11,TUR,Türkiye,Nei,0
+Nikolai,8_delsfinale,8-delsfinale,12,BEL,Belgium,Ja,2
+Nikolai,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Nikolai,8_delsfinale,8-delsfinale,14,EGY,Egypt,Ja,2
+Nikolai,8_delsfinale,8-delsfinale,15,SUI,Switzerland,Ja,2
+Nikolai,8_delsfinale,8-delsfinale,16,POR,Portugal,Ja,2
+Nikolai,kvartfinale,Kvartfinale,1,FRA,France,Ja,3
+Nikolai,kvartfinale,Kvartfinale,2,NED,Netherlands,Nei,0
+Nikolai,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Nikolai,kvartfinale,Kvartfinale,4,TUR,Türkiye,Nei,0
+Nikolai,kvartfinale,Kvartfinale,5,NOR,Norway,Ja,3
+Nikolai,kvartfinale,Kvartfinale,6,ENG,England,Ja,3
+Nikolai,kvartfinale,Kvartfinale,7,ARG,Argentina,Nei,0
+Nikolai,kvartfinale,Kvartfinale,8,POR,Portugal,Nei,0
+Nikolai,semifinale,Semifinale,1,FRA,France,Nei,0
+Nikolai,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Nikolai,semifinale,Semifinale,3,ENG,England,Nei,0
+Nikolai,semifinale,Semifinale,4,POR,Portugal,Nei,0
+Nikolai,vm_vinnar,VM-vinnar,1,FRA,France,Nei,0
+Nikolai,solv,Sølv,1,POR,Portugal,Nei,0
+Nikolai,bronse,Bronse,1,ENG,England,Nei,0
+Nikolai,toppscorer,Toppscorar,1,Mbappe (FRA),Mbappe (FRA),Nei,0
+Nina C,16_delsfinale,16-delsfinale,1,KOR,South Korea,Nei,0
+Nina C,16_delsfinale,16-delsfinale,2,SUI,Switzerland,Ja,1
+Nina C,16_delsfinale,16-delsfinale,3,GER,Germany,Ja,1
+Nina C,16_delsfinale,16-delsfinale,4,RSA,South Africa,Ja,1
+Nina C,16_delsfinale,16-delsfinale,5,NED,Netherlands,Ja,1
+Nina C,16_delsfinale,16-delsfinale,6,MAR,Morocco,Ja,1
+Nina C,16_delsfinale,16-delsfinale,7,BRA,Brazil,Ja,1
+Nina C,16_delsfinale,16-delsfinale,8,SWE,Sweden,Ja,1
+Nina C,16_delsfinale,16-delsfinale,9,FRA,France,Ja,1
+Nina C,16_delsfinale,16-delsfinale,10,URU,Uruguay,Nei,0
+Nina C,16_delsfinale,16-delsfinale,11,ECU,Ecuador,Ja,1
+Nina C,16_delsfinale,16-delsfinale,12,NOR,Norway,Ja,1
+Nina C,16_delsfinale,16-delsfinale,13,MEX,Mexico,Ja,1
+Nina C,16_delsfinale,16-delsfinale,14,SCO,Scotland,Nei,0
+Nina C,16_delsfinale,16-delsfinale,15,ENG,England,Ja,1
+Nina C,16_delsfinale,16-delsfinale,16,IRQ,IRQ,Nei,0
+Nina C,16_delsfinale,16-delsfinale,17,USA,United States,Ja,1
+Nina C,16_delsfinale,16-delsfinale,18,CAN,Canada,Ja,1
+Nina C,16_delsfinale,16-delsfinale,19,IRN,Iran,Nei,0
+Nina C,16_delsfinale,16-delsfinale,20,AUT,Austria,Ja,1
+Nina C,16_delsfinale,16-delsfinale,21,COL,Colombia,Ja,1
+Nina C,16_delsfinale,16-delsfinale,22,CRO,Croatia,Ja,1
+Nina C,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Nina C,16_delsfinale,16-delsfinale,24,ALG,Algeria,Ja,1
+Nina C,16_delsfinale,16-delsfinale,25,QAT,Qatar,Nei,0
+Nina C,16_delsfinale,16-delsfinale,26,JAP,Japan,Ja,1
+Nina C,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Nina C,16_delsfinale,16-delsfinale,28,KSA,Saudi Arabia,Nei,0
+Nina C,16_delsfinale,16-delsfinale,29,POR,Portugal,Ja,1
+Nina C,16_delsfinale,16-delsfinale,30,PAN,Panama,Nei,0
+Nina C,16_delsfinale,16-delsfinale,31,TÜR,Türkiye,Nei,0
+Nina C,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Nina C,8_delsfinale,8-delsfinale,1,GER,Germany,Nei,0
+Nina C,8_delsfinale,8-delsfinale,2,FRA,France,Ja,2
+Nina C,8_delsfinale,8-delsfinale,3,SUI,Switzerland,Ja,2
+Nina C,8_delsfinale,8-delsfinale,4,NED,Netherlands,Nei,0
+Nina C,8_delsfinale,8-delsfinale,5,BRA,Brazil,Ja,2
+Nina C,8_delsfinale,8-delsfinale,6,NOR,Norway,Ja,2
+Nina C,8_delsfinale,8-delsfinale,7,MEX,Mexico,Ja,2
+Nina C,8_delsfinale,8-delsfinale,8,ENG,England,Ja,2
+Nina C,8_delsfinale,8-delsfinale,9,CRO,Croatia,Nei,0
+Nina C,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Nina C,8_delsfinale,8-delsfinale,11,USA,United States,Ja,2
+Nina C,8_delsfinale,8-delsfinale,12,AUT,Austria,Nei,0
+Nina C,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Nina C,8_delsfinale,8-delsfinale,14,TUR,Türkiye,Nei,0
+Nina C,8_delsfinale,8-delsfinale,15,QAT,Qatar,Nei,0
+Nina C,8_delsfinale,8-delsfinale,16,POR,Portugal,Ja,2
+Nina C,kvartfinale,Kvartfinale,1,FRA,France,Ja,3
+Nina C,kvartfinale,Kvartfinale,2,NED,Netherlands,Nei,0
+Nina C,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Nina C,kvartfinale,Kvartfinale,4,AUT,Austria,Nei,0
+Nina C,kvartfinale,Kvartfinale,5,BRA,Brazil,Nei,0
+Nina C,kvartfinale,Kvartfinale,6,ENG,England,Ja,3
+Nina C,kvartfinale,Kvartfinale,7,ARG,Argentina,Nei,0
+Nina C,kvartfinale,Kvartfinale,8,POR,Portugal,Nei,0
+Nina C,semifinale,Semifinale,1,FRA,France,Nei,0
+Nina C,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Nina C,semifinale,Semifinale,3,ENG,England,Nei,0
+Nina C,semifinale,Semifinale,4,POR,Portugal,Nei,0
+Nina C,vm_vinnar,VM-vinnar,1,FRA,France,Nei,0
+Nina C,solv,Sølv,1,POR,Portugal,Nei,0
+Nina C,bronse,Bronse,1,ESP,Spain,Nei,0
+Nina C,toppscorer,Toppscorar,1,Ronaldo (POR),Ronaldo (POR),Nei,0
+Torstein,16_delsfinale,16-delsfinale,1,KOR,South Korea,Nei,0
+Torstein,16_delsfinale,16-delsfinale,2,CAN,Canada,Ja,1
+Torstein,16_delsfinale,16-delsfinale,3,GER,Germany,Ja,1
+Torstein,16_delsfinale,16-delsfinale,4,SCO,Scotland,Nei,0
+Torstein,16_delsfinale,16-delsfinale,5,NED,Netherlands,Ja,1
+Torstein,16_delsfinale,16-delsfinale,6,MAR,Morocco,Ja,1
+Torstein,16_delsfinale,16-delsfinale,7,BRA,Brazil,Ja,1
+Torstein,16_delsfinale,16-delsfinale,8,JAP,Japan,Ja,1
+Torstein,16_delsfinale,16-delsfinale,9,FRA,France,Ja,1
+Torstein,16_delsfinale,16-delsfinale,10,NZL,New Zealand,Nei,0
+Torstein,16_delsfinale,16-delsfinale,11,ECU,Ecuador,Ja,1
+Torstein,16_delsfinale,16-delsfinale,12,NOR,Norway,Ja,1
+Torstein,16_delsfinale,16-delsfinale,13,MEX,Mexico,Ja,1
+Torstein,16_delsfinale,16-delsfinale,14,CIV,Ivory Coast,Ja,1
+Torstein,16_delsfinale,16-delsfinale,15,ENG,England,Ja,1
+Torstein,16_delsfinale,16-delsfinale,16,SEN,Senegal,Ja,1
+Torstein,16_delsfinale,16-delsfinale,17,USA,United States,Ja,1
+Torstein,16_delsfinale,16-delsfinale,18,BIH,Bosnia and Herzegovina,Ja,1
+Torstein,16_delsfinale,16-delsfinale,19,BEL,Belgium,Ja,1
+Torstein,16_delsfinale,16-delsfinale,20,KSA,Saudi Arabia,Nei,0
+Torstein,16_delsfinale,16-delsfinale,21,COL,Colombia,Ja,1
+Torstein,16_delsfinale,16-delsfinale,22,CRO,Croatia,Ja,1
+Torstein,16_delsfinale,16-delsfinale,23,ESP,Spain,Ja,1
+Torstein,16_delsfinale,16-delsfinale,24,AUT,Austria,Ja,1
+Torstein,16_delsfinale,16-delsfinale,25,SUI,Switzerland,Ja,1
+Torstein,16_delsfinale,16-delsfinale,26,ALG,Algeria,Ja,1
+Torstein,16_delsfinale,16-delsfinale,27,ARG,Argentina,Ja,1
+Torstein,16_delsfinale,16-delsfinale,28,URU,Uruguay,Nei,0
+Torstein,16_delsfinale,16-delsfinale,29,POR,Portugal,Ja,1
+Torstein,16_delsfinale,16-delsfinale,30,GHA,Ghana,Ja,1
+Torstein,16_delsfinale,16-delsfinale,31,TÜR,Türkiye,Nei,0
+Torstein,16_delsfinale,16-delsfinale,32,EGY,Egypt,Ja,1
+Torstein,8_delsfinale,8-delsfinale,1,GER,Germany,Nei,0
+Torstein,8_delsfinale,8-delsfinale,2,FRA,France,Ja,2
+Torstein,8_delsfinale,8-delsfinale,3,CAN,Canada,Ja,2
+Torstein,8_delsfinale,8-delsfinale,4,NED,Netherlands,Nei,0
+Torstein,8_delsfinale,8-delsfinale,5,BRA,Brazil,Ja,2
+Torstein,8_delsfinale,8-delsfinale,6,NOR,Norway,Ja,2
+Torstein,8_delsfinale,8-delsfinale,7,MEX,Mexico,Ja,2
+Torstein,8_delsfinale,8-delsfinale,8,ENG,England,Ja,2
+Torstein,8_delsfinale,8-delsfinale,9,COL,Colombia,Ja,2
+Torstein,8_delsfinale,8-delsfinale,10,ESP,Spain,Ja,2
+Torstein,8_delsfinale,8-delsfinale,11,USA,United States,Ja,2
+Torstein,8_delsfinale,8-delsfinale,12,BEL,Belgium,Ja,2
+Torstein,8_delsfinale,8-delsfinale,13,ARG,Argentina,Ja,2
+Torstein,8_delsfinale,8-delsfinale,14,TUR,Türkiye,Nei,0
+Torstein,8_delsfinale,8-delsfinale,15,SUI,Switzerland,Ja,2
+Torstein,8_delsfinale,8-delsfinale,16,POR,Portugal,Ja,2
+Torstein,kvartfinale,Kvartfinale,1,FRA,France,Ja,3
+Torstein,kvartfinale,Kvartfinale,2,NED,Netherlands,Nei,0
+Torstein,kvartfinale,Kvartfinale,3,ESP,Spain,Nei,0
+Torstein,kvartfinale,Kvartfinale,4,BEL,Belgium,Nei,0
+Torstein,kvartfinale,Kvartfinale,5,NOR,Norway,Ja,3
+Torstein,kvartfinale,Kvartfinale,6,ENG,England,Ja,3
+Torstein,kvartfinale,Kvartfinale,7,ARG,Argentina,Nei,0
+Torstein,kvartfinale,Kvartfinale,8,POR,Portugal,Nei,0
+Torstein,semifinale,Semifinale,1,FRA,France,Nei,0
+Torstein,semifinale,Semifinale,2,ESP,Spain,Nei,0
+Torstein,semifinale,Semifinale,3,ENG,England,Nei,0
+Torstein,semifinale,Semifinale,4,POR,Portugal,Nei,0
+Torstein,vm_vinnar,VM-vinnar,1,ESP,Spain,Nei,0
+Torstein,solv,Sølv,1,ENG,England,Nei,0
+Torstein,bronse,Bronse,1,FRA,France,Nei,0
+Torstein,toppscorer,Toppscorar,1,Kane (ENG),Kane (ENG),Nei,0
