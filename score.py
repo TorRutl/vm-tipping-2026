@@ -1,9 +1,8 @@
 from __future__ import annotations
 
-import csv
 from collections import defaultdict
 from pathlib import Path
-from typing import Dict, Iterable, List, Tuple
+import pandas as pd
 
 DATA_DIR = Path(__file__).parent / "data"
 
@@ -24,119 +23,69 @@ STAGE_LABELS = {
     "8_delsfinale": "8-delsfinale",
     "kvartfinale": "Kvartfinale",
     "semifinale": "Semifinale",
-    "finalist": "Finale/finalistar",
+    "finalist": "Finalistar",
     "vm_vinnar": "VM-vinnar",
-    "solv": "Sølv",
-    "bronse": "Bronse",
+    "solv": "2. plass",
+    "bronse": "3. plass",
     "toppscorer": "Toppscorar",
 }
 
-def read_csv_dict(path: Path) -> list[dict]:
-    with path.open("r", encoding="utf-8", newline="") as f:
-        return list(csv.DictReader(f))
-
 def load_points(data_dir: Path = DATA_DIR) -> dict[str, int]:
-    rows = read_csv_dict(data_dir / "points.csv")
-    return {r["stage"]: int(r["points_per_correct"]) for r in rows}
+    df = pd.read_csv(data_dir / "points.csv")
+    return dict(zip(df["stage"], df["points_per_correct"].astype(int)))
 
-def load_team_codes(data_dir: Path = DATA_DIR) -> dict[str, str]:
-    rows = read_csv_dict(data_dir / "team_codes.csv")
-    return {r["code"]: r["team"] for r in rows}
+def load_predictions(data_dir: Path = DATA_DIR) -> pd.DataFrame:
+    return pd.read_csv(data_dir / "predictions.csv", dtype={"pick": str})
 
-def load_predictions(data_dir: Path = DATA_DIR) -> list[dict]:
-    return read_csv_dict(data_dir / "predictions.csv")
-
-def load_actual(data_dir: Path = DATA_DIR) -> list[dict]:
-    return read_csv_dict(data_dir / "actual.csv")
-
-def actual_sets(actual_rows: list[dict]) -> dict[str, set[str]]:
-    sets: dict[str, set[str]] = defaultdict(set)
-    for r in actual_rows:
-        val = (r.get("actual") or "").strip()
-        if val:
-            sets[r["stage"]].add(val)
-    return sets
-
-def score_all(data_dir: Path = DATA_DIR) -> tuple[list[dict], list[dict]]:
+def score_all(actual: pd.DataFrame, data_dir: Path = DATA_DIR) -> tuple[pd.DataFrame, pd.DataFrame]:
     predictions = load_predictions(data_dir)
-    actual = load_actual(data_dir)
     points = load_points(data_dir)
-    team_names = load_team_codes(data_dir)
-    actual_by_stage = actual_sets(actual)
 
-    by_person: dict[str, list[dict]] = defaultdict(list)
-    for row in predictions:
-        by_person[row["name"]].append(row)
+    actual_sets = {
+        stage: set(group["actual"].dropna().astype(str))
+        for stage, group in actual.groupby("stage")
+    }
 
-    leaderboard = []
-    details = []
+    leaderboard_rows = []
+    detail_rows = []
 
-    for name, rows in sorted(by_person.items()):
-        stage_points = {s: 0 for s in STAGE_ORDER}
-        possible_remaining = {s: 0 for s in STAGE_ORDER}
+    for name, person in predictions.groupby("name", sort=True):
+        stage_scores = {stage: 0 for stage in STAGE_ORDER}
 
-        for r in rows:
-            stage = r["stage"]
-            pick = (r["pick"] or "").strip()
-            if stage not in points or not pick:
+        for _, row in person.iterrows():
+            stage = str(row["stage"])
+            pick = str(row["pick"]).strip()
+            if stage not in points or not pick or pick == "nan":
                 continue
 
-            is_correct = pick in actual_by_stage.get(stage, set())
-            earned = points[stage] if is_correct else 0
-            stage_points[stage] += earned
+            known = actual_sets.get(stage, set())
+            correct = pick in known
+            earned = points[stage] if correct else 0
+            stage_scores[stage] += earned
 
-            # A simple "still alive" marker: if the future actual stage is empty, we do not know yet.
-            unresolved = len(actual_by_stage.get(stage, set())) == 0
-            if unresolved:
-                possible_remaining[stage] += points[stage]
-
-            details.append({
+            detail_rows.append({
                 "name": name,
                 "stage": stage,
                 "stage_label": STAGE_LABELS.get(stage, stage),
-                "slot": int(r["slot"]),
+                "slot": int(row["slot"]),
                 "pick": pick,
-                "pick_name": r.get("pick_name") or team_names.get(pick, pick),
-                "correct": "Ja" if is_correct else "Nei",
+                "pick_name": row.get("pick_name", pick),
+                "status": "riktig" if correct else ("uavklart" if not known else "feil"),
                 "points": earned,
             })
 
-        total = sum(stage_points.values())
-        max_remaining = sum(possible_remaining.values())
-        out = {
-            "name": name,
-            "total": total,
-            "max_remaining_simple": max_remaining,
-            "max_total_simple": total + max_remaining,
-        }
-        for s in STAGE_ORDER:
-            out[s] = stage_points[s]
-        leaderboard.append(out)
+        total = sum(stage_scores.values())
+        leaderboard_rows.append({"name": name, "total": total, **stage_scores})
 
-    leaderboard.sort(key=lambda r: (-r["total"], r["name"]))
-    for i, r in enumerate(leaderboard, start=1):
-        r["rank"] = i
+    board = pd.DataFrame(leaderboard_rows).sort_values(
+        ["total", "name"], ascending=[False, True]
+    ).reset_index(drop=True)
 
-    return leaderboard, details
+    board["plass"] = board["total"].rank(method="min", ascending=False).astype(int)
+    if len(board):
+        board["bak_leiar"] = int(board.iloc[0]["total"]) - board["total"]
+    else:
+        board["bak_leiar"] = 0
 
-def write_outputs(data_dir: Path = DATA_DIR) -> None:
-    leaderboard, details = score_all(data_dir)
-
-    with (data_dir / "leaderboard.csv").open("w", encoding="utf-8", newline="") as f:
-        fields = ["rank", "name", "total", "max_total_simple", "max_remaining_simple"] + STAGE_ORDER
-        w = csv.DictWriter(f, fieldnames=fields)
-        w.writeheader()
-        w.writerows(leaderboard)
-
-    with (data_dir / "details.csv").open("w", encoding="utf-8", newline="") as f:
-        fields = ["name", "stage", "stage_label", "slot", "pick", "pick_name", "correct", "points"]
-        w = csv.DictWriter(f, fieldnames=fields)
-        w.writeheader()
-        w.writerows(details)
-
-if __name__ == "__main__":
-    write_outputs()
-    board, _ = score_all()
-    print("VM-tipping - topp 10")
-    for r in board[:10]:
-        print(f"{r['rank']:>2}. {r['name']:<15} {r['total']:>3} p")
+    details = pd.DataFrame(detail_rows)
+    return board, details
